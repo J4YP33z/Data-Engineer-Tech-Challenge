@@ -5,6 +5,7 @@ import os
 import re
 import shutil
 import sys
+import configparser
 
 import pandas as pd
 
@@ -17,6 +18,10 @@ logging.basicConfig(
 
 # log the start of the script
 logging.info("Starting script")
+
+# Read the config file
+config = configparser.ConfigParser()
+config.read("config.ini")
 
 # Define paths for input, output, and archive directories
 input_path = "./input/"
@@ -47,7 +52,7 @@ df["email_check"] = df["email"].str.match(r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.(
 
 # Convert the date of birth column to datetime format and create a new column indicating whether the age is at least 18
 df["date_of_birth"] = df["date_of_birth"].apply(pd.to_datetime, errors="coerce", infer_datetime_format=True)
-df["age_check"] = df["date_of_birth"].apply(lambda x: (datetime.date.today().year - x.year) >= 18)
+df["age_check"] = df["date_of_birth"].apply(lambda x: (pd.Timestamp(2022, 1, 1) - x) // datetime.timedelta(days=365.2425) >= 18)
 
 # Convert the mobile number column to string format and create a new column indicating whether the length is 8
 df["mobile_no"] = df["mobile_no"].apply(str)
@@ -67,7 +72,7 @@ df = df.loc[success]
 
 # Remove prefixes and suffixes from names and split names into first and last name columns
 df[["name"]] = df[["name"]].fillna("")  # Fill missing names with empty string to avoid errors
-prefixes_suffixes = ["DDS", "DVM", "Dr.", " II", " III", "Jr.", "MD", "Miss", "Mr.", "Mrs.", "Ms.", "PhD"]
+prefixes_suffixes = config.get("name", "prefixes_suffixes").split(",")  # Get the prefixes and suffixes from the config file
 pattern = "|".join(map(re.escape, prefixes_suffixes))
 df["name"] = df["name"].apply(lambda n: re.sub(pattern, "", n, flags=re.IGNORECASE).strip() if n.count(" ") > 1 else n)
 df[["first_name", "last_name"]] = df["name"].str.split(n=1, expand=True)
