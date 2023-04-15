@@ -1,4 +1,4 @@
-name,email,date_of_birth,mobile_no,name_check,email_check,age_check,mobile_check
+name,email,date_of_birth,mobile_no,name_check,email_check,above_18,mobile_check
 William Dixon,William_Dixon@woodward-fuller.biz,1986-10-01,40601711,True,False,True,True
 Kristen Horn,Kristen_Horn@lin.com,1974-10-09,737931,True,True,True,False
 Kimberly Chang,Kimberly_Chang@johnson-lopez.biz,1974-02-27,2692047,True,False,True,False
@@ -46,8 +46,8 @@ Benjamin Smith,Benjamin_Smith@christian-contreras.com,1987-12-23,9583 5639,True,
 David Glenn,David_Glenn@jenkins-mcfarland.org,2011-06-15,960561,True,False,False,False
 Dawn Jones,Dawn_Jones@ashley-johnson.com,2007-02-03,91686479,True,True,False,True
 Joel Smith,Joel_Smith@walker-roth.biz,1971-09-09,8287875,True,False,True,False
-Mr. Larry Grimes MD,Larry_Grimes@lewis-richardson.info,2005-12-31,966177,True,False,True,False
-Joseph Arnold,Joseph_Arnold@gibbs.biz,2005-08-21,2019270,True,False,True,False
+Mr. Larry Grimes MD,Larry_Grimes@lewis-richardson.info,2005-12-31,966177,True,False,False,False
+Joseph Arnold,Joseph_Arnold@gibbs.biz,2005-08-21,2019270,True,False,False,False
 Kyle Long,Kyle_Long@galvan.com,1992-07-13,2785329,True,True,True,False
 Brittany Day,Brittany_Day@brown.info,2018-05-22,61597047,True,False,False,True
 Bobby Ward,Bobby_Ward@bailey-taylor.org,1964-06-10,64672783,True,False,True,True
@@ -77,12 +77,12 @@ Jeff Armstrong,Jeff_Armstrong@kennedy-lucas.com,1954-01-03,88331,True,True,True,
 Sean Shields,Sean_Shields@christian.info,2001-02-16,617613,True,False,True,False
 Christian Grant,Christian_Grant@booker-frank.com,1979-09-23,8851893,True,True,True,False
 Edward Watson,Edward_Watson@brooks.com,2007-04-12,946371,True,True,False,False
-Derrick Cooke,Derrick_Cooke@hill.net,2004-09-15,4575922,True,True,True,False
+Derrick Cooke,Derrick_Cooke@hill.net,2004-09-15,4575922,True,True,False,False
 Sean Patrick,Sean_Patrick@rivera.com,2000-10-25,41681,True,True,True,False
 Heather Collins,Heather_Collins@williams.com,1986-03-12,910971,True,True,True,False
 Megan Gomez,Megan_Gomez@wade-stone.com,2008-01-29,3002476,True,True,False,False
 William Hale,William_Hale@pena.info,2007-04-22,4519208,True,False,False,False
-Olivia Thompson,Olivia_Thompson@bryan-navarro.com,2005-11-30,481533,True,True,True,False
+Olivia Thompson,Olivia_Thompson@bryan-navarro.com,2005-11-30,481533,True,True,False,False
 Lori Torres,Lori_Torres@hill.net,,5795175,True,True,False,False
 Vickie Hernandez,Vickie_Hernandez@chapman.com,1963-02-14,25106,True,True,True,False
 Kimberly Brown,Kimberly_Brown@jones.com,1960-11-23,820029,True,True,True,False
@@ -96,13 +96,13 @@ Kristen Henry,Kristen_Henry@parker.com,2014-07-02,675081,True,True,False,False
 Claudia Anderson,Claudia_Anderson@smith-lynch.info,2012-05-10,53767631,True,False,False,True
 Nicholas Webb,Nicholas_Webb@johnson.com,1953-11-03,993549,True,True,True,False
 Allison Cooper,Allison_Cooper@taylor.biz,2001-05-12,93151,True,False,True,False
-Zachary Barnes,Zachary_Barnes@horne.biz,2005-03-05,41935039,True,False,True,True
+Zachary Barnes,Zachary_Barnes@horne.biz,2005-03-05,41935039,True,False,False,True
 Gregory Hill III,Gregory_Hill@sims-sparks.net,1991-02-11,2850534,True,True,True,False
 Terry Ayers,Terry_Ayers@morris.com,2007-06-08,76391,True,True,False,False
 Jessica Wilson,Jessica_Wilson@nichols.com,1954-11-15,662205,True,True,True,False
 Daniel Frazier,Daniel_Frazier@reilly.org,2017-10-26,2907584,True,False,False,False
-Brian Welch,Brian_Welch@armstrong.net,2005-11-11,417927,True,True,True,False
-Carol Chavez,Carol_Chavez@cantu-shelton.com,2004-07-03,4824387,True,True,True,False
+Brian Welch,Brian_Welch@armstrong.net,2005-11-11,417927,True,True,False,False
+Carol Chavez,Carol_Chavez@cantu-shelton.com,2004-07-03,4824387,True,True,False,False
 Ethan Mcdonald,Ethan_Mcdonald@lewis.com,1990-01-15,57126,True,True,True,False
 Gerald Martinez,Gerald_Martinez@jenkins-barnes.net,1986-01-07,30641,True,True,True,False
 Eric King,Eric_King@graham.com,1970-09-14,895557,True,True,True,False
@@ -135,7 +135,7 @@ Gary Figueroa,Gary_Figueroa@hernandez.com,1963-07-11,3026717,True,True,True,Fals
 Michael West,Michael_West@rojas.net,2011-07-23,2103781,True,True,False,False
 Martin Walton,Martin_Walton@grant.org,2011-12-05,593379,True,False,False,False
 Christopher Stephenson,Christopher_Stephenson@wade.com,1962-05-06,435111,True,True,True,False
-Eric Ortiz,Eric_Ortiz@johnson.com,2005-08-02,3593234,True,True,True,False
+Eric Ortiz,Eric_Ortiz@johnson.com,2005-08-02,3593234,True,True,False,False
 Andrew Cowan,Andrew_Cowan@gray-young.info,1961-08-22,128361,True,False,True,False
 Rhonda Moss DDS,Rhonda_Moss@nelson.com,1951-12-30,817173,True,True,True,False
 Sarah Williams,Sarah_Williams@morris.org,1985-05-06,553179,True,False,True,False
@@ -144,7 +144,7 @@ Larry Mooney,Larry_Mooney@west-sanchez.info,2010-10-28,61381,True,False,False,Fa
 Laura Livingston,Laura_Livingston@ponce.biz,1991-07-03,178515,True,False,True,False
 Candace Mckenzie,Candace_Mckenzie@evans-fields.com,1952-03-18,4009167,True,True,True,False
 Candace Wallace,Candace_Wallace@dickerson.com,1998-05-08,45146,True,True,True,False
-Jason White,Jason_White@hill.org,2005-05-05,186057,True,False,True,False
+Jason White,Jason_White@hill.org,2005-05-05,186057,True,False,False,False
 Patricia Reynolds,Patricia_Reynolds@holt-sweeney.com,2012-08-05,21775831,True,True,False,True
 Michael Ellison,Michael_Ellison@brown.com,1988-07-04,398331,True,True,True,False
 Melissa Robles,Melissa_Robles@ryan-meyers.com,1980-05-19,90836,True,True,True,False
@@ -200,14 +200,14 @@ Suzanne Barnett,Suzanne_Barnett@norman-payne.com,1952-08-28,856419,True,True,Tru
 Leah Myers,Leah_Myers@nichols-davies.info,1986-05-09,65720823,True,False,True,True
 Kylie Thomas,Kylie_Thomas@thomas.com,1996-05-10,950613,True,True,True,False
 Christopher Matthews,Christopher_Matthews@holloway.com,1969-04-18,5612601,True,True,True,False
-Nicole Parks,Nicole_Parks@haney-hahn.org,2005-09-05,4168158,True,False,True,False
+Nicole Parks,Nicole_Parks@haney-hahn.org,2005-09-05,4168158,True,False,False,False
 Kevin Chambers,Kevin_Chambers@brown-miller.com,1996-03-12,31371,True,True,True,False
 Kimberly Lawson,Kimberly_Lawson@bennett-fletcher.com,1968-08-24,8918561,True,True,True,False
 Rachel Lopez,Rachel_Lopez@nichols.com,1964-08-14,88726,True,True,True,False
 Christopher Clay,Christopher_Clay@clark-brown.biz,2017-04-21,563625,True,False,False,False
 Daniel Martin,Daniel_Martin@mendez-miller.com,1961-09-29,2787681,True,True,True,False
 William Taylor,William_Taylor@garcia-bush.net,1955-11-04,374985,True,True,True,False
-Steven Johnson,Steven_Johnson@hall.com,2005-07-16,95881,True,True,True,False
+Steven Johnson,Steven_Johnson@hall.com,2005-07-16,95881,True,True,False,False
 Daniel Miller,Daniel_Miller@jackson.info,2000-01-19,86343895,True,False,True,True
 Taylor Bryant,Taylor_Bryant@walker.com,2016-04-06,80016,True,True,False,False
 Lauren Jones,Lauren_Jones@castaneda.com,1987-07-24,9651 2831,True,True,True,False
@@ -311,13 +311,13 @@ Elizabeth Ruiz,Elizabeth_Ruiz@bell-ho.com,1979-02-02,697629,True,True,True,False
 Caitlin Lewis,Caitlin_Lewis@miller.com,2007-07-04,7931512,True,True,False,False
 Micheal Blackburn,Micheal_Blackburn@lewis.org,1962-10-10,7063 7879,True,False,True,False
 Sheryl Mccarthy,Sheryl_Mccarthy@fox-johnson.org,1997-03-29,3859556,True,False,True,False
-Lisa Smith,Lisa_Smith@johnson.com,2004-09-21,12546,True,True,True,False
+Lisa Smith,Lisa_Smith@johnson.com,2004-09-21,12546,True,True,False,False
 Jared Juarez,Jared_Juarez@neal.info,1975-12-04,65986,True,False,True,False
-Brett Castro,Brett_Castro@wilson.com,2005-11-03,875235,True,True,True,False
+Brett Castro,Brett_Castro@wilson.com,2005-11-03,875235,True,True,False,False
 Jessica Murray,Jessica_Murray@lewis.com,2000-08-09,97696,True,True,True,False
 Austin Coffey,Austin_Coffey@wolf.biz,2010-03-07,782595,True,False,False,False
 Shelly Jacobs,Shelly_Jacobs@jones.org,1977-02-24,9984906,True,False,True,False
-Elizabeth Logan,Elizabeth_Logan@hale.org,2005-01-14,177789,True,False,True,False
+Elizabeth Logan,Elizabeth_Logan@hale.org,2005-01-14,177789,True,False,False,False
 Cody Anderson,Cody_Anderson@arroyo.com,1960-09-29,53651,True,True,True,False
 Kayla Wood,Kayla_Wood@wallace.com,1999-06-03,393903,True,True,True,False
 Paul Singh DDS,Paul_Singh@silva-callahan.com,1951-11-11,256683,True,True,True,False
@@ -328,7 +328,7 @@ Jenny Clark,Jenny_Clark@soto.com,1976-08-07,271815,True,True,True,False
 Patrick Guzman,Patrick_Guzman@ryan-todd.biz,1960-10-06,9436477,True,False,True,False
 Mr. Scott Peters,Scott_Peters@barnes-diaz.com,2013-03-03,3644880,True,True,False,False
 John Stevenson,John_Stevenson@horton.com,2000-08-06,598899,True,True,True,False
-Kristina Brooks,Kristina_Brooks@anderson.com,2004-04-21,72641,True,True,True,False
+Kristina Brooks,Kristina_Brooks@anderson.com,2004-04-21,72641,True,True,False,False
 Nancy Aguilar,Nancy_Aguilar@lane.com,1995-08-11,9751 6423,True,True,True,False
 Robert Brown,Robert_Brown@perez.info,1991-06-26,813777,True,False,True,False
 Jessica Williams,Jessica_Williams@thomas-martin.com,1973-08-24,2647 2931,True,True,True,False
@@ -419,12 +419,12 @@ Joseph Frazier,Joseph_Frazier@lopez-lewis.net,2010-03-13,41346,True,True,False,F
 Ryan Mclaughlin,Ryan_Mclaughlin@archer-snyder.com,2017-07-13,6722388,True,True,False,False
 Tony Hall,Tony_Hall@gamble-brown.com,1951-02-10,76596,True,True,True,False
 John Obrien,John_Obrien@pearson-hansen.com,1958-01-16,380373,True,True,True,False
-Barbara Johnson,Barbara_Johnson@valdez-brown.biz,2004-05-23,256605,True,False,True,False
+Barbara Johnson,Barbara_Johnson@valdez-brown.biz,2004-05-23,256605,True,False,False,False
 Brandon Marshall,Brandon_Marshall@thompson.org,1986-04-15,12250471,True,False,True,True
 Carrie Miller,Carrie_Miller@taylor.com,2017-01-04,910407,True,True,False,False
 Samantha Dean,Samantha_Dean@bennett.net,1961-02-13,2718451,True,True,True,False
 Jamie Wilson,Jamie_Wilson@kane-french.info,2014-10-01,47161,True,False,False,False
-Carlos Acosta,Carlos_Acosta@hartman-zamora.com,2004-05-07,5026001,True,True,True,False
+Carlos Acosta,Carlos_Acosta@hartman-zamora.com,2004-05-07,5026001,True,True,False,False
 Amy Bennett,Amy_Bennett@smith-chase.com,1964-01-26,25266,True,True,True,False
 Dominique Wells,Dominique_Wells@carter-hurst.com,2014-05-29,80856,True,True,False,False
 Michael Barton,Michael_Barton@marshall-henson.com,2007-05-30,29311,True,True,False,False
@@ -444,8 +444,8 @@ Toni Dunn,Toni_Dunn@chapman.com,1980-08-31,8967 4459,True,True,True,False
 David Jackson,David_Jackson@stokes-guzman.com,1968-08-25,735651,True,True,True,False
 Melanie Gates,Melanie_Gates@yang.com,2012-05-01,78743751,True,True,False,True
 Jordan Lewis,Jordan_Lewis@nolan.net,1962-12-14,34596,True,True,True,False
-Michele Johnson,Michele_Johnson@johnson-james.net,2005-04-10,33671,True,True,True,False
-Samantha Ryan,Samantha_Ryan@hernandez.com,2005-10-16,84616,True,True,True,False
+Michele Johnson,Michele_Johnson@johnson-james.net,2005-04-10,33671,True,True,False,False
+Samantha Ryan,Samantha_Ryan@hernandez.com,2005-10-16,84616,True,True,False,False
 Christopher Hudson,Christopher_Hudson@conrad.com,1959-12-17,21286,True,True,True,False
 Zachary Williams,Zachary_Williams@jackson-dean.com,1978-02-18,7658953,True,True,True,False
 Donna Davis,Donna_Davis@garza.com,1968-09-08,53051,True,True,True,False
@@ -462,8 +462,8 @@ Jonathan Rios,Jonathan_Rios@johnson.net,1981-09-19,489579,True,True,True,False
 Mackenzie Miller,Mackenzie_Miller@bender-stanton.com,2015-04-29,5541943,True,True,False,False
 Tammy Taylor,Tammy_Taylor@pace.com,1950-12-07,6704671,True,True,True,False
 Reginald King,Reginald_King@turner.net,1981-04-10,3018387,True,True,True,False
-Matthew Fletcher,Matthew_Fletcher@perez.com,2005-09-02,191049,True,True,True,False
-Elizabeth Jordan,Elizabeth_Jordan@schroeder-mcdaniel.com,2004-01-07,3007 4335,True,True,True,False
+Matthew Fletcher,Matthew_Fletcher@perez.com,2005-09-02,191049,True,True,False,False
+Elizabeth Jordan,Elizabeth_Jordan@schroeder-mcdaniel.com,2004-01-07,3007 4335,True,True,False,False
 Sally Santiago,Sally_Santiago@bowers.net,1973-02-21,58976,True,True,True,False
 James Johnson,James_Johnson@greene.biz,2002-12-16,21476871,True,False,True,True
 Jason Saunders,Jason_Saunders@campos.org,1995-06-10,2477245,True,False,True,False
@@ -488,7 +488,7 @@ Julie Torres,Julie_Torres@harris.com,1992-01-22,6153134,True,True,True,False
 James Miller,James_Miller@ellis-fox.com,1999-01-09,6415543,True,True,True,False
 John Howard,John_Howard@zimmerman.com,1998-02-06,527469,True,True,True,False
 Anne Savage,Anne_Savage@moore.com,1990-07-17,13466,True,True,True,False
-Mrs. Amber Esparza,Amber_Esparza@hoffman.com,2004-12-30,12096,True,True,True,False
+Mrs. Amber Esparza,Amber_Esparza@hoffman.com,2004-12-30,12096,True,True,False,False
 Todd Armstrong,Todd_Armstrong@carlson-smith.info,1973-08-21,7744906,True,False,True,False
 Aaron Richardson,Aaron_Richardson@savage-swanson.org,1991-03-06,161793,True,False,True,False
 Gregory Pollard,Gregory_Pollard@smith-hensley.com,1962-07-25,3299773,True,True,True,False
@@ -524,7 +524,7 @@ Charles Stanley,Charles_Stanley@waters.biz,1960-05-23,49406,True,False,True,Fals
 Christina Garcia,Christina_Garcia@vargas.com,1999-11-06,624873,True,True,True,False
 Heather Davis,Heather_Davis@small-haas.com,1951-03-11,675903,True,True,True,False
 Ashley Fuentes,Ashley_Fuentes@johnson.net,1959-04-28,72316,True,True,True,False
-Jorge Brown,Jorge_Brown@thomas-green.org,2004-10-21,25446,True,False,True,False
+Jorge Brown,Jorge_Brown@thomas-green.org,2004-10-21,25446,True,False,False,False
 Sierra Park MD,Sierra_Park@brewer.net,1985-10-19,2510418,True,True,True,False
 Todd Miller,Todd_Miller@blankenship-hernandez.com,1976-10-17,54616,True,True,True,False
 Crystal Luna,Crystal_Luna@davis.org,1961-02-24,43706,True,False,True,False
@@ -538,7 +538,7 @@ Alicia Stone MD,Alicia_Stone@oconnell.com,1973-10-15,42516,True,True,True,False
 Micheal Lloyd,Micheal_Lloyd@vaughn.net,2016-04-30,325203,True,True,False,False
 Richard Ortiz,Richard_Ortiz@burton.com,2013-07-19,8811 9227,True,True,False,False
 Jasmine Reyes,Jasmine_Reyes@miller.com,1968-10-09,54816,True,True,True,False
-Tony Smith,Tony_Smith@davis.com,2005-12-22,6671 1831,True,True,True,False
+Tony Smith,Tony_Smith@davis.com,2005-12-22,6671 1831,True,True,False,False
 Mary Melton,Mary_Melton@dorsey-wheeler.biz,1951-11-24,74341,True,False,True,False
 William Griffin,William_Griffin@jenkins.com,1971-06-22,4299114,True,True,True,False
 Scott Vargas,Scott_Vargas@elliott.net,1953-07-05,28386,True,True,True,False
@@ -564,7 +564,7 @@ Richard Reeves,Richard_Reeves@pena.biz,1973-07-25,48586,True,False,True,False
 Heather Maldonado,Heather_Maldonado@warner-cole.info,1999-07-14,6672842,True,False,True,False
 Shelly Mcdaniel,Shelly_Mcdaniel@little.com,1995-10-28,8659 9403,True,True,True,False
 David Ryan,David_Ryan@williams.com,1975-07-28,59886,True,True,True,False
-Tyler Trevino,Tyler_Trevino@greene.info,2005-08-24,99178143,True,False,True,True
+Tyler Trevino,Tyler_Trevino@greene.info,2005-08-24,99178143,True,False,False,True
 Christina Jackson,Christina_Jackson@griffith-thomas.net,2002-08-29,18006,True,True,True,False
 Jodi Peterson,Jodi_Peterson@wall-perry.org,1999-12-21,3840194,True,False,True,False
 Melissa Carney,Melissa_Carney@ramirez-leach.com,1975-09-15,297843,True,True,True,False
@@ -607,9 +607,9 @@ Patricia Gallagher,Patricia_Gallagher@lawrence.org,2018-02-03,68350383,True,Fals
 Shaun Holloway,Shaun_Holloway@steele.com,1987-06-23,601695,True,True,True,False
 Marc Love,Marc_Love@martin.com,1955-07-22,9679 6419,True,True,True,False
 Michael Mayer,Michael_Mayer@davis.net,1971-04-14,2025990,True,True,True,False
-Mason Rodriguez,Mason_Rodriguez@morris.com,2005-10-23,53041,True,True,True,False
+Mason Rodriguez,Mason_Rodriguez@morris.com,2005-10-23,53041,True,True,False,False
 Jason Payne,Jason_Payne@bell.net,1997-04-30,18901,True,True,True,False
-Johnny Hicks,Johnny_Hicks@galvan.biz,2005-02-17,9824893,True,False,True,False
+Johnny Hicks,Johnny_Hicks@galvan.biz,2005-02-17,9824893,True,False,False,False
 Lisa Rodgers,Lisa_Rodgers@jenkins.com,1956-01-25,3937403,True,True,True,False
 Sarah Tyler,Sarah_Tyler@sloan.com,1981-01-08,98166,True,True,True,False
 Brian Rodriguez,Brian_Rodriguez@lawrence-johnson.biz,1982-12-21,6485942,True,False,True,False
@@ -639,11 +639,12 @@ Eric Richards,Eric_Richards@reeves.net,1950-10-02,93011,True,True,True,False
 Rebecca Mitchell,Rebecca_Mitchell@bullock.org,2011-12-05,17774807,True,False,False,True
 Anna Patrick,Anna_Patrick@vance.com,1963-10-12,94576,True,True,True,False
 Eric Schmidt,Eric_Schmidt@roberson.com,1966-04-25,21721,True,True,True,False
+Mark Campbell,Mark_Campbell@brown.com,2004-05-07,61242343,True,True,False,True
 Taylor Oconnell,Taylor_Oconnell@campbell.com,1952-08-05,469089,True,True,True,False
 Debra Peters,Debra_Peters@smith.com,1982-08-04,6911 5179,True,True,True,False
 William Russell,William_Russell@evans.com,1969-06-01,176085,True,True,True,False
 Ryan Mcdaniel,Ryan_Mcdaniel@white.com,1987-04-08,49071,True,True,True,False
-Jacqueline Frazier,Jacqueline_Frazier@pollard.info,2005-03-06,7887 7139,True,False,True,False
+Jacqueline Frazier,Jacqueline_Frazier@pollard.info,2005-03-06,7887 7139,True,False,False,False
 Steven Stuart,Steven_Stuart@murray-todd.org,1990-01-21,836013,True,False,True,False
 Emily Rodriguez,Emily_Rodriguez@allen-richards.com,1985-11-06,6593581,True,True,True,False
 Ryan Perez,Ryan_Perez@taylor.com,1955-05-31,27721,True,True,True,False
@@ -651,7 +652,7 @@ Megan Lopez,Megan_Lopez@williams-gonzales.com,1953-02-07,184833,True,True,True,F
 Matthew Lucero,Matthew_Lucero@bowers-pham.info,1990-08-05,52221639,True,False,True,True
 Joseph Perez,Joseph_Perez@ryan.com,1974-09-09,6187 6187,True,True,True,False
 Kimberly Wright,Kimberly_Wright@tran.com,2013-12-02,22291,True,True,False,False
-Donald Braun,Donald_Braun@madden.com,2004-04-16,4348877,True,True,True,False
+Donald Braun,Donald_Braun@madden.com,2004-04-16,4348877,True,True,False,False
 Savannah Reese,Savannah_Reese@townsend-rios.com,2018-07-23,4211 2635,True,True,False,False
 Leslie Wiggins,Leslie_Wiggins@reese-camacho.com,2014-09-21,95381,True,True,False,False
 Mrs. Deanna Gonzalez,Deanna_Gonzalez@murray.com,1965-06-25,38166,True,True,True,False
@@ -668,7 +669,7 @@ Victor Becker,Victor_Becker@williams-little.info,1969-05-29,6671232,True,False,T
 Thomas Sanchez,Thomas_Sanchez@cunningham-reid.net,1957-09-14,2399 4083,True,True,True,False
 Michael Chapman,Michael_Chapman@bennett-tucker.org,1958-05-10,407643,True,False,True,False
 Stephen Lam,Stephen_Lam@estrada-young.com,1952-09-01,3454340,True,True,True,False
-Theresa Wells,Theresa_Wells@smith.biz,2004-01-17,5855179,True,False,True,False
+Theresa Wells,Theresa_Wells@smith.biz,2004-01-17,5855179,True,False,False,False
 Richard Barrera,Richard_Barrera@jackson.com,1950-12-16,3993270,True,True,True,False
 Kelly Boyle,Kelly_Boyle@hayes.com,1995-07-17,363399,True,True,True,False
 James Hicks,James_Hicks@mendoza.com,1981-07-04,7759690,True,True,True,False
@@ -763,7 +764,7 @@ Robert Miller,Robert_Miller@graham.com,1956-01-10,69471,True,True,True,False
 Olivia Martin,Olivia_Martin@carey.com,1977-07-31,32286,True,True,True,False
 Manuel Long,Manuel_Long@thomas.biz,2010-02-10,38196223,True,False,False,True
 Richard Villanueva,Richard_Villanueva@macias.com,1961-10-21,9364468,True,True,True,False
-Taylor Jones,Taylor_Jones@mendez.biz,2005-12-23,99236655,True,False,True,True
+Taylor Jones,Taylor_Jones@mendez.biz,2005-12-23,99236655,True,False,False,True
 Catherine Simmons,Catherine_Simmons@flores.com,2015-09-23,26756,True,True,False,False
 Samantha Miranda,Samantha_Miranda@carter.com,2000-12-31,5738461,True,True,True,False
 Sarah Brown,Sarah_Brown@johnson.info,1974-06-27,1409584,True,False,True,False
@@ -774,7 +775,7 @@ Cameron Gay,Cameron_Gay@lee.net,1999-05-21,3454564,True,True,True,False
 Jose Martinez,Jose_Martinez@garza.com,1962-04-21,4988474,True,True,True,False
 Gabrielle Todd,Gabrielle_Todd@lane-browning.com,1973-08-24,36681,True,True,True,False
 Adrian Price,Adrian_Price@soto-diaz.biz,1971-06-16,73308247,True,False,True,True
-James Daniels,James_Daniels@williamson.info,2004-09-10,4503 3767,True,False,True,False
+James Daniels,James_Daniels@williamson.info,2004-09-10,4503 3767,True,False,False,False
 Henry Huffman,Henry_Huffman@khan.info,1995-10-18,8911358,True,False,True,False
 Beth Murphy,Beth_Murphy@sweeney.com,2003-10-16,68616,True,True,True,False
 Kevin Haynes,Kevin_Haynes@jones.com,1969-06-24,7543 3787,True,True,True,False
@@ -798,7 +799,7 @@ Samuel Davis,Samuel_Davis@chavez.com,2000-07-15,833349,True,True,True,False
 James Garcia,James_Garcia@johnson.com,2014-09-04,729369,True,True,False,False
 Carolyn Glover,Carolyn_Glover@walker.com,1979-07-14,8783 2791,True,True,True,False
 Jonathan Singleton,Jonathan_Singleton@baker.com,1993-01-16,55871,True,True,True,False
-Jennifer Rodriguez MD,Jennifer_Rodriguez@cruz.com,2004-02-04,734733,True,True,True,False
+Jennifer Rodriguez MD,Jennifer_Rodriguez@cruz.com,2004-02-04,734733,True,True,False,False
 Kelly Rogers,Kelly_Rogers@carr.info,1994-09-20,47022791,True,False,True,True
 Kelly Rodriguez,Kelly_Rodriguez@abbott.com,1963-03-26,25201,True,True,True,False
 Michael Fisher,Michael_Fisher@turner-arias.com,1994-12-31,900663,True,True,True,False
@@ -839,9 +840,9 @@ Miss Katherine Brennan MD,Katherine_Brennan@garcia.net,1977-11-13,3791 8255,True
 Nathan Nielsen,Nathan_Nielsen@smith-coleman.info,1957-03-25,22721639,True,False,True,True
 Patricia Davis,Patricia_Davis@brown.net,1989-03-17,89586,True,True,True,False
 Ricardo Davies,Ricardo_Davies@lawrence.com,2016-11-07,79786,True,True,False,False
-Matthew Lawson,Matthew_Lawson@collier.org,2005-08-01,76736911,True,False,True,True
+Matthew Lawson,Matthew_Lawson@collier.org,2005-08-01,76736911,True,False,False,True
 Charles Mendoza DVM,Charles_Mendoza@watts.org,1952-09-11,56858727,True,False,True,True
-Jack Lin,Jack_Lin@buckley-smith.net,2005-04-02,2187851,True,True,True,False
+Jack Lin,Jack_Lin@buckley-smith.net,2005-04-02,2187851,True,True,False,False
 Michelle Jacobs,Michelle_Jacobs@day.org,2018-04-12,75251,True,False,False,False
 Christine Lara,Christine_Lara@barnes-lee.com,1959-01-03,7771 6475,True,True,True,False
 Lindsey Owens,Lindsey_Owens@wilson.net,2009-08-12,180645,True,True,False,False
@@ -898,7 +899,7 @@ Jeremy Wright,Jeremy_Wright@friedman.com,1971-10-07,958071,True,True,True,False
 Tracy Frazier,Tracy_Frazier@reed.info,1982-03-15,6636295,True,False,True,False
 Robert Wheeler,Robert_Wheeler@ramirez.com,1959-04-24,897117,True,True,True,False
 John Gonzalez,John_Gonzalez@beck-lynch.org,2017-08-15,85888895,True,False,False,True
-Thomas Gordon,Thomas_Gordon@perez-nelson.com,2004-11-06,6508825,True,True,True,False
+Thomas Gordon,Thomas_Gordon@perez-nelson.com,2004-11-06,6508825,True,True,False,False
 Jacob Mcintyre,Jacob_Mcintyre@willis.com,2014-08-08,26330743,True,True,False,True
 Charles Melendez,Charles_Melendez@wood.org,1978-07-26,847119,True,False,True,False
 Angel Johnson,Angel_Johnson@anderson.info,1957-11-28,12270279,True,False,True,True
@@ -922,7 +923,7 @@ Terri Pace,Terri_Pace@griffin.com,1966-05-21,58881,True,True,True,False
 Erika Joseph,Erika_Joseph@romero.com,1981-03-03,5107 5039,True,True,True,False
 Jessica Brown,Jessica_Brown@perez.com,2007-01-15,8623035,True,True,False,False
 Chase Young,Chase_Young@miller.com,2016-02-19,512313,True,True,False,False
-Mitchell Cook,Mitchell_Cook@henson.com,2005-11-21,481893,True,True,True,False
+Mitchell Cook,Mitchell_Cook@henson.com,2005-11-21,481893,True,True,False,False
 Paul Allen,Paul_Allen@jacobs-walker.info,1968-10-11,44110375,True,False,True,True
 Adam Morales,Adam_Morales@simpson-velazquez.info,1991-04-04,12197423,True,False,True,True
 Melinda Hamilton,Melinda_Hamilton@martinez-norris.com,2003-03-11,1252406,True,True,True,False
@@ -988,6 +989,7 @@ Stephanie Haas,Stephanie_Haas@smith.com,1980-02-08,94971,True,True,True,False
 Lisa Medina,Lisa_Medina@harris.com,1956-06-16,81656,True,True,True,False
 Susan Lane,Susan_Lane@archer-warner.biz,2012-12-27,22551711,True,False,False,True
 William Tran,William_Tran@williams.com,1956-01-11,7430774,True,True,True,False
+Savannah Holland,Savannah_Holland@williams-kelly.com,2004-04-07,79359575,True,True,False,True
 Crystal Vega,Crystal_Vega@bradford.com,1954-06-27,99496,True,True,True,False
 Erika Espinoza,Erika_Espinoza@mitchell.com,1997-08-24,766575,True,True,True,False
 Deborah Jones,Deborah_Jones@brown.info,1990-06-07,337743,True,False,True,False
@@ -995,7 +997,7 @@ Kirsten Williams,Kirsten_Williams@mitchell.info,1951-12-04,2819 3351,True,False,
 Charles Patel,Charles_Patel@rivas.biz,1965-01-13,119961,True,False,True,False
 Misty Ramirez,Misty_Ramirez@waters-turner.org,1976-07-01,246471,True,False,True,False
 Mark Bowman,Mark_Bowman@lam-valentine.com,1982-05-31,22876,True,True,True,False
-Christina Orr,Christina_Orr@marquez.com,2004-12-14,9889090,True,True,True,False
+Christina Orr,Christina_Orr@marquez.com,2004-12-14,9889090,True,True,False,False
 Brian Bridges,Brian_Bridges@hobbs.biz,2013-12-08,4455655,True,False,False,False
 Mike Hale,Mike_Hale@hall.net,1984-08-11,144735,True,True,True,False
 Amanda Allen,Amanda_Allen@cross-johnson.com,1978-04-17,420549,True,True,True,False
@@ -1034,7 +1036,7 @@ Dr. Charles Rose,Charles_Rose@walker.com,1955-11-20,4900995,True,True,True,False
 Noah Mccarty,Noah_Mccarty@rios-oneill.com,1965-06-20,6471 8427,True,True,True,False
 James Casey,James_Casey@morrison.info,1986-07-28,1168350,True,False,True,False
 Hector Stanton,Hector_Stanton@baxter-rios.biz,1963-06-17,78586,True,False,True,False
-Dustin Watkins,Dustin_Watkins@coleman.com,2005-06-09,737823,True,True,True,False
+Dustin Watkins,Dustin_Watkins@coleman.com,2005-06-09,737823,True,True,False,False
 Chloe Pham,Chloe_Pham@porter.info,1957-05-14,9514254,True,False,True,False
 Jordan White,Jordan_White@sandoval.net,1988-09-15,557379,True,True,True,False
 Melissa Reese,Melissa_Reese@phillips.com,1966-12-20,22241,True,True,True,False
@@ -1047,7 +1049,7 @@ Cole Harris,Cole_Harris@valdez.org,1962-02-16,7598809,True,False,True,False
 Kimberly Levy,Kimberly_Levy@montoya.org,1958-10-13,935493,True,False,True,False
 Jerry Shannon,Jerry_Shannon@sweeney-gibbs.com,1951-05-05,8623 9787,True,True,True,False
 Blake Brown,Blake_Brown@george-kelly.net,1957-06-15,3483 5327,True,True,True,False
-Brianna Ford,Brianna_Ford@jenkins.com,2004-09-12,419265,True,True,True,False
+Brianna Ford,Brianna_Ford@jenkins.com,2004-09-12,419265,True,True,False,False
 Bryan Santiago,Bryan_Santiago@schneider-grimes.com,1988-01-23,713793,True,True,True,False
 Michelle Walker,Michelle_Walker@zavala-frey.com,1987-08-25,289053,True,True,True,False
 David Lewis,David_Lewis@davis-anderson.com,1974-06-03,43571,True,True,True,False
@@ -1085,7 +1087,7 @@ Nicolas Ray,Nicolas_Ray@lynch-richards.net,2007-01-15,97346,True,True,False,Fals
 Tracy Butler,Tracy_Butler@allison.info,1957-02-05,4543 5383,True,False,True,False
 Brian Novak,Brian_Novak@ross.com,1995-05-02,4886141,True,True,True,False
 Mario Humphrey,Mario_Humphrey@short.com,1950-07-07,6814270,True,True,True,False
-Kelly Mcdonald,Kelly_Mcdonald@carr.com,2004-06-06,255639,True,True,True,False
+Kelly Mcdonald,Kelly_Mcdonald@carr.com,2004-06-06,255639,True,True,False,False
 Melinda Smith,Melinda_Smith@castro-parker.info,1997-10-24,6609520,True,False,True,False
 Emily Sanchez,Emily_Sanchez@dillon-chavez.org,1987-03-06,252231,True,False,True,False
 Dana Vega,Dana_Vega@jones.info,1953-08-17,8481824,True,False,True,False
@@ -1123,11 +1125,11 @@ Devon Roberts,Devon_Roberts@lewis.biz,2003-10-30,81450999,True,False,True,True
 Amy Gray,Amy_Gray@dunlap.org,1965-10-17,271761,True,False,True,False
 Tracy Wagner,Tracy_Wagner@anderson-martin.com,1959-10-09,748809,True,True,True,False
 Eric West,Eric_West@fields-brewer.com,2014-02-21,59066,True,True,False,False
-Denise Harper,Denise_Harper@lyons.com,2005-01-07,3642836,True,True,True,False
+Denise Harper,Denise_Harper@lyons.com,2005-01-07,3642836,True,True,False,False
 Brianna Richards,Brianna_Richards@blevins.com,1967-02-05,784245,True,True,True,False
 Shirley Garcia,Shirley_Garcia@byrd.com,1952-04-24,5999645,True,True,True,False
 James Byrd,James_Byrd@andersen-nguyen.net,1975-02-22,64951,True,True,True,False
-Krista Mata,Krista_Mata@hernandez-glenn.biz,2005-12-12,715047,True,False,True,False
+Krista Mata,Krista_Mata@hernandez-glenn.biz,2005-12-12,715047,True,False,False,False
 Vernon Gomez,Vernon_Gomez@brown.net,2000-11-29,25171,True,True,True,False
 John Gilbert,John_Gilbert@williams.net,1963-03-27,65006,True,True,True,False
 Alicia Medina,Alicia_Medina@carrillo-may.com,1966-05-04,77576,True,True,True,False
@@ -1139,7 +1141,7 @@ Jacqueline Sawyer,Jacqueline_Sawyer@ruiz-marshall.com,1957-04-24,207027,True,Tru
 Nancy Wilkins,Nancy_Wilkins@webster.biz,2013-12-28,439839,True,False,False,False
 Shane White,Shane_White@mccoy.biz,1996-04-21,8925435,True,False,True,False
 Daniel Rivas,Daniel_Rivas@cain.net,2016-03-18,1239043,True,True,False,False
-Andrew Medina,Andrew_Medina@taylor-campbell.biz,2004-04-23,6951680,True,False,True,False
+Andrew Medina,Andrew_Medina@taylor-campbell.biz,2004-04-23,6951680,True,False,False,False
 Donald Carson,Donald_Carson@robinson.com,1966-01-17,79831,True,True,True,False
 Jason Hamilton,Jason_Hamilton@lopez.net,2014-05-19,99086,True,True,False,False
 Mark Perez,Mark_Perez@mccall.com,1958-03-11,316719,True,True,True,False
@@ -1167,7 +1169,7 @@ Hunter Atkinson,Hunter_Atkinson@foster.com,1994-05-22,5743046,True,True,True,Fal
 Richard Williams,Richard_Williams@vance-ramos.net,1982-03-05,14641,True,True,True,False
 Frank Martinez,Frank_Martinez@garcia-johnson.biz,2015-08-26,58076,True,False,False,False
 Timothy Burns,Timothy_Burns@diaz.info,1967-03-07,2420132,True,False,True,False
-Henry White DDS,Henry_White@daniels-lewis.com,2005-02-16,55186,True,True,True,False
+Henry White DDS,Henry_White@daniels-lewis.com,2005-02-16,55186,True,True,False,False
 Amanda Mccoy,Amanda_Mccoy@hernandez.biz,1973-01-15,2033991,True,False,True,False
 Pamela Cox,Pamela_Cox@oneill.com,1963-05-21,998991,True,True,True,False
 Linda Ray,Linda_Ray@walters.net,1973-10-22,187113,True,True,True,False
@@ -1176,7 +1178,7 @@ Kevin Landry,Kevin_Landry@miller-meyer.com,1999-01-22,6007009,True,True,True,Fal
 Jamie Porter,Jamie_Porter@farmer-brown.com,1971-05-07,2761326,True,True,True,False
 Victor Marsh,Victor_Marsh@smith-olson.org,1971-09-08,52026823,True,False,True,True
 Mr. Ryan Rodriguez,Ryan_Rodriguez@green.com,2008-10-16,420789,True,True,False,False
-Brittany Bradley,Brittany_Bradley@green-allen.org,2005-04-16,3546383,True,False,True,False
+Brittany Bradley,Brittany_Bradley@green-allen.org,2005-04-16,3546383,True,False,False,False
 Amy Wallace,Amy_Wallace@martin-bolton.org,1973-08-23,738579,True,False,True,False
 Timothy King,Timothy_King@johnson-smith.com,1953-01-10,669447,True,True,True,False
 Charles Jennings,Charles_Jennings@cochran.net,1975-07-14,7091 3863,True,True,True,False
@@ -1226,7 +1228,7 @@ Deborah Estes,Deborah_Estes@foster-juarez.info,2016-09-11,5563776,True,False,Fal
 Jeremy Knight,Jeremy_Knight@farrell.com,1985-10-18,36631,True,True,True,False
 Abigail Mccoy,Abigail_Mccoy@washington.com,2007-12-24,3983 9051,True,True,False,False
 Chad Sellers,Chad_Sellers@mccoy.org,1974-03-01,201111,True,False,True,False
-James Terry,James_Terry@valencia.info,2004-04-06,160731,True,False,True,False
+James Terry,James_Terry@valencia.info,2004-04-06,160731,True,False,False,False
 Rachael Watson,Rachael_Watson@miller-meyer.biz,2011-02-02,964347,True,False,False,False
 Matthew Salazar,Matthew_Salazar@bernard.com,1956-09-21,7436157,True,True,True,False
 Christopher Small,Christopher_Small@miller.net,2016-12-10,4818122,True,True,False,False
@@ -1251,7 +1253,7 @@ James Davidson,James_Davidson@brown.info,1955-12-14,67973167,True,False,True,Tru
 Holly Mendoza,Holly_Mendoza@pratt.com,1980-03-14,226641,True,True,True,False
 Jordan Lopez,Jordan_Lopez@barnes-mathews.com,2006-12-20,413133,True,True,False,False
 Antonio Ryan,Antonio_Ryan@hall-herrera.com,2010-09-09,87921,True,True,False,False
-Raymond Ware,Raymond_Ware@walsh.com,2004-08-15,8263 2731,True,True,True,False
+Raymond Ware,Raymond_Ware@walsh.com,2004-08-15,8263 2731,True,True,False,False
 Alexander Stafford,Alexander_Stafford@farley.com,2006-10-02,82406,True,True,False,False
 Kristen Rice,Kristen_Rice@johnson.com,1955-08-25,78291,True,True,True,False
 Joseph Moore,Joseph_Moore@mckenzie.com,1995-07-11,17051,True,True,True,False
@@ -1270,8 +1272,8 @@ Ryan Fitzgerald,Ryan_Fitzgerald@whitaker-davis.com,1970-12-09,5849257,True,True,
 Natalie Martinez,Natalie_Martinez@martinez.com,2018-09-06,4714942,True,True,False,False
 Joyce Hayes,Joyce_Hayes@morris.biz,2006-06-09,43466,True,False,False,False
 Amber Morris,Amber_Morris@wong.com,1964-07-23,8998046,True,True,True,False
-Tiffany Jackson,Tiffany_Jackson@avery.biz,2004-05-19,2914570,True,False,True,False
-Tiffany Vasquez,Tiffany_Vasquez@greene-smith.com,2005-05-17,799671,True,True,True,False
+Tiffany Jackson,Tiffany_Jackson@avery.biz,2004-05-19,2914570,True,False,False,False
+Tiffany Vasquez,Tiffany_Vasquez@greene-smith.com,2005-05-17,799671,True,True,False,False
 John Douglas,John_Douglas@jensen.info,1999-03-02,2207 2627,True,False,True,False
 William Reed,William_Reed@morales.org,1993-02-16,6807207,True,False,True,False
 Nicole James,Nicole_James@brown-mills.com,1991-07-01,844311,True,True,True,False
@@ -1290,6 +1292,7 @@ William Smith,William_Smith@woods-hicks.net,2007-03-14,52860751,True,True,False,
 Mrs. Hannah Cummings,Hannah_Cummings@anderson-hansen.com,2008-01-05,1511896,True,True,False,False
 Philip Mills,Philip_Mills@riley.net,1963-11-02,4903634,True,True,True,False
 Emily Berry,Emily_Berry@anderson.com,2006-11-20,613125,True,True,False,False
+Casey Coffey,Casey_Coffey@west.com,2004-02-08,26436239,True,True,False,True
 Regina Johnson,Regina_Johnson@hernandez.org,1953-05-14,9976058,True,False,True,False
 Steven Waters,Steven_Waters@davis.com,2007-04-20,2539 7755,True,True,False,False
 Joshua Gonzalez,Joshua_Gonzalez@greene.com,1980-09-24,1884597,True,True,True,False
@@ -1304,7 +1307,7 @@ Isaac Roth,Isaac_Roth@thompson.com,1961-01-02,706593,True,True,True,False
 Lauren Smith,Lauren_Smith@davis.info,1978-01-08,34446,True,False,True,False
 Nicole Duffy MD,Nicole_Duffy@davenport-nelson.info,2009-08-01,18095111,True,False,False,True
 Emily Vega,Emily_Vega@butler.com,1996-05-08,887709,True,True,True,False
-Jesse Stone,Jesse_Stone@morales.com,2004-09-08,3149819,True,True,True,False
+Jesse Stone,Jesse_Stone@morales.com,2004-09-08,3149819,True,True,False,False
 Thomas Horne,Thomas_Horne@floyd.info,1971-07-18,82457007,True,False,True,True
 Jo Humphrey,Jo_Humphrey@ramos.com,1988-10-31,71786,True,True,True,False
 Nicholas Marquez,Nicholas_Marquez@good.info,1990-03-21,2188138,True,False,True,False
@@ -1335,7 +1338,7 @@ Cole Butler,Cole_Butler@campbell.info,2009-12-25,940509,True,False,False,False
 Jessica Prince,Jessica_Prince@rodriguez-hill.com,1995-12-27,596913,True,True,True,False
 Brian Smith,Brian_Smith@martinez.com,1979-02-03,853017,True,True,True,False
 Mark Ortiz,Mark_Ortiz@costa-barker.info,2000-01-08,5881751,True,False,True,False
-Shane Garcia,Shane_Garcia@ingram-ford.com,2005-12-23,8043 5507,True,True,True,False
+Shane Garcia,Shane_Garcia@ingram-ford.com,2005-12-23,8043 5507,True,True,False,False
 Tammy Lowe,Tammy_Lowe@hart.info,2011-05-02,43251,True,False,False,False
 Bonnie Parsons,Bonnie_Parsons@elliott.info,1999-11-27,887463,True,False,True,False
 Diane Lee,Diane_Lee@mills-robinson.org,1988-07-14,968625,True,False,True,False
@@ -1364,7 +1367,7 @@ Kathryn Morris,Kathryn_Morris@martin-diaz.biz,1966-06-05,1219 8603,True,False,Tr
 Jonathan Henry,Jonathan_Henry@mccoy.info,1981-02-27,6011 3947,True,False,True,False
 Jonathan Navarro,Jonathan_Navarro@keller.com,1961-04-23,85746,True,True,True,False
 Steven Ryan,Steven_Ryan@miller-williams.biz,1995-01-15,3604994,True,False,True,False
-Matthew Rodriguez,Matthew_Rodriguez@smith.info,2005-05-07,463443,True,False,True,False
+Matthew Rodriguez,Matthew_Rodriguez@smith.info,2005-05-07,463443,True,False,False,False
 Laurie Stewart,Laurie_Stewart@marquez.com,1981-01-30,32491,True,True,True,False
 Joseph Ramirez,Joseph_Ramirez@garcia.com,1955-10-05,84221,True,True,True,False
 Eric Harris,Eric_Harris@brown.info,1950-10-09,2320578,True,False,True,False
@@ -1388,7 +1391,7 @@ Lori Morales,Lori_Morales@snow-boyd.biz,1970-12-10,46595111,True,False,True,True
 Alexandra Shelton,Alexandra_Shelton@jackson-gomez.com,1987-02-13,8728861,True,True,True,False
 Carl Gonzalez,Carl_Gonzalez@zamora.org,1950-11-25,165939,True,False,True,False
 Chad Kelly,Chad_Kelly@sherman.com,1970-09-21,634155,True,True,True,False
-Jacob White,Jacob_White@melton.com,2004-12-16,939267,True,True,True,False
+Jacob White,Jacob_White@melton.com,2004-12-16,939267,True,True,False,False
 Tony Howard,Tony_Howard@gutierrez.org,1953-02-11,6299 3627,True,False,True,False
 Randy Franklin,Randy_Franklin@hamilton.com,1952-02-22,6321491,True,True,True,False
 Taylor Davidson,Taylor_Davidson@williams.net,1979-09-11,9689611,True,True,True,False
@@ -1437,7 +1440,7 @@ James Porter,James_Porter@cervantes.biz,1990-03-07,3071230,True,False,True,False
 David Harrison,David_Harrison@green.info,1984-10-31,2368605,True,False,True,False
 Tara Davidson,Tara_Davidson@hernandez.com,1986-11-17,1738283,True,True,True,False
 Donna Kelly,Donna_Kelly@young.org,1962-11-28,4989146,True,False,True,False
-Renee Mayer,Renee_Mayer@petty.com,2005-01-02,351321,True,True,True,False
+Renee Mayer,Renee_Mayer@petty.com,2005-01-02,351321,True,True,False,False
 Victor Davis,Victor_Davis@crawford.org,1957-03-01,9626898,True,False,True,False
 Marc Abbott,Marc_Abbott@grimes.info,2017-08-25,54976,True,False,False,False
 Kevin Flores,Kevin_Flores@crawford.com,1956-05-06,414045,True,True,True,False
@@ -1456,7 +1459,7 @@ Mike Hudson,Mike_Hudson@wilson-snyder.info,1986-07-08,75936847,True,False,True,T
 Nichole Murray,Nichole_Murray@harmon-blackwell.com,1953-10-28,7541654,True,True,True,False
 Anthony Robinson,Anthony_Robinson@welch-williams.net,1987-03-27,345279,True,True,True,False
 Andrew Sutton,Andrew_Sutton@mcintyre-allen.com,1966-12-15,818421,True,True,True,False
-John Munoz,John_Munoz@perkins-proctor.org,2004-09-10,7944973,True,False,True,False
+John Munoz,John_Munoz@perkins-proctor.org,2004-09-10,7944973,True,False,False,False
 Antonio Gray,Antonio_Gray@jackson-bell.org,1971-03-15,56973759,True,False,True,True
 Mallory Bright,Mallory_Bright@santiago.com,1954-11-18,117729,True,True,True,False
 Zachary Johnson,Zachary_Johnson@velez.com,1974-02-10,2099868,True,True,True,False
@@ -1478,6 +1481,7 @@ Cassandra Moreno,Cassandra_Moreno@roberts-mccarthy.info,1968-03-27,528657,True,F
 Gregory Pacheco,Gregory_Pacheco@perez.com,1963-12-28,89236,True,True,True,False
 Shawn Shelton,Shawn_Shelton@dixon.biz,1963-01-24,62583727,True,False,True,True
 Nicole Huerta,Nicole_Huerta@acevedo.com,1981-01-07,915957,True,True,True,False
+Matthew Hoffman,Matthew_Hoffman@lara.com,2005-05-04,44628735,True,True,False,True
 Barbara Hudson,Barbara_Hudson@robinson-jones.com,1997-10-28,3319 4551,True,True,True,False
 Sandra Francis,Sandra_Francis@juarez.org,1965-04-18,596037,True,False,True,False
 Rebecca Ray,Rebecca_Ray@davis.com,1991-03-28,78041,True,True,True,False
@@ -1493,7 +1497,7 @@ Nicole Valdez,Nicole_Valdez@chase.net,1975-05-18,2440103,True,True,True,False
 Austin Bird,Austin_Bird@young-stout.com,1976-05-15,5371 3179,True,True,True,False
 Adam Morrison,Adam_Morrison@clay-jones.com,1980-01-08,4022019,True,True,True,False
 Kenneth Koch,Kenneth_Koch@wagner.com,1966-06-02,130515,True,True,True,False
-Michael Harris,Michael_Harris@miller-fischer.com,2004-05-22,66016,True,True,True,False
+Michael Harris,Michael_Harris@miller-fischer.com,2004-05-22,66016,True,True,False,False
 Devon Levy,Devon_Levy@chapman.com,1968-06-25,244203,True,True,True,False
 Alison Wright,Alison_Wright@moore.info,1954-02-25,8439607,True,False,True,False
 Jennifer Jones,Jennifer_Jones@williams.com,2014-04-26,67930447,True,True,False,True
@@ -1506,7 +1510,7 @@ Joshua Hunter,Joshua_Hunter@jackson-parker.com,2007-05-17,60770775,True,True,Fal
 Cindy Wells,Cindy_Wells@munoz.com,1973-06-16,5892335,True,True,True,False
 Meredith Shepherd,Meredith_Shepherd@wolfe.com,2016-10-29,65360583,True,True,False,True
 Paula Jackson,Paula_Jackson@rodgers.com,2010-09-03,945849,True,True,False,False
-Jacob Woodard,Jacob_Woodard@lee-williams.biz,2005-08-21,4707 3639,True,False,True,False
+Jacob Woodard,Jacob_Woodard@lee-williams.biz,2005-08-21,4707 3639,True,False,False,False
 Michael Hill,Michael_Hill@herrera-vargas.com,1977-02-08,9580964,True,True,True,False
 Maureen Miller,Maureen_Miller@wright.com,1958-04-07,6526234,True,True,True,False
 Pamela Brandt,Pamela_Brandt@glover.com,1983-08-21,93461,True,True,True,False
@@ -1525,7 +1529,7 @@ Gilbert Johnson,Gilbert_Johnson@jones.com,1985-09-23,9719 1811,True,True,True,Fa
 Yvonne Murphy,Yvonne_Murphy@valdez.com,1993-06-25,1348131,True,True,True,False
 Austin Patel,Austin_Patel@reid.com,2016-07-30,666243,True,True,False,False
 Ronald Lopez,Ronald_Lopez@swanson.com,1978-01-27,25071,True,True,True,False
-Terry Fowler,Terry_Fowler@rivers-miller.org,2004-10-07,65941,True,False,True,False
+Terry Fowler,Terry_Fowler@rivers-miller.org,2004-10-07,65941,True,False,False,False
 Holly Lara,Holly_Lara@young.net,1970-01-16,81361,True,True,True,False
 Cody Hayden,Cody_Hayden@donovan.com,1989-04-10,2063461,True,True,True,False
 Veronica Bradford,Veronica_Bradford@larson.com,1986-10-24,3765728,True,True,True,False
@@ -1566,10 +1570,11 @@ John Kemp,John_Kemp@underwood.com,1990-09-28,1162092,True,True,True,False
 Benjamin Richardson,Benjamin_Richardson@yang.com,1976-10-09,5904655,True,True,True,False
 Eric Cobb,Eric_Cobb@cannon.net,1982-10-25,869745,True,True,True,False
 Joseph Daniel,Joseph_Daniel@manning.info,1965-08-08,4498656,True,False,True,False
-William Pollard,William_Pollard@lewis-wiley.com,2004-06-18,3633106,True,True,True,False
+William Pollard,William_Pollard@lewis-wiley.com,2004-06-18,3633106,True,True,False,False
 Aaron Pace,Aaron_Pace@burgess-riley.com,2012-01-02,75746,True,True,False,False
 Wendy Smith,Wendy_Smith@ferguson-jones.com,1986-06-29,8189700,True,True,True,False
 Cheyenne Hernandez,Cheyenne_Hernandez@thomas.info,1973-01-20,782919,True,False,True,False
+Patricia Spencer,Patricia_Spencer@holland-rodriguez.com,2004-03-23,52772407,True,True,False,True
 Charles Taylor PhD,Charles_Taylor@ramsey-pruitt.net,1966-05-15,369705,True,True,True,False
 Stacey Clark,Stacey_Clark@williams.com,1957-08-25,71616,True,True,True,False
 Megan Williams,Megan_Williams@novak.com,1987-08-19,75936,True,True,True,False
@@ -1594,14 +1599,14 @@ Russell Gallagher,Russell_Gallagher@davidson.com,1974-02-23,711303,True,True,Tru
 Cody Moore,Cody_Moore@parker.com,1961-10-07,759435,True,True,True,False
 Robin Ramsey,Robin_Ramsey@gilbert-bailey.info,2010-05-02,1197988,True,False,False,False
 Heather Shelton,Heather_Shelton@porter.com,1996-04-15,252819,True,True,True,False
-Lindsay Zuniga,Lindsay_Zuniga@carson.org,2004-04-12,9566523,True,False,True,False
+Lindsay Zuniga,Lindsay_Zuniga@carson.org,2004-04-12,9566523,True,False,False,False
 Mark Wells,Mark_Wells@bentley-thomas.info,1972-06-01,53601,True,False,True,False
 Gerald Gonzales,Gerald_Gonzales@bennett.com,1975-01-02,71646,True,True,True,False
 Christopher Perez,Christopher_Perez@barker-daniels.com,1985-09-24,830727,True,True,True,False
 Justin Thornton,Justin_Thornton@mcintyre-knight.com,1996-07-30,801567,True,True,True,False
 Miss Lauren Solis,Lauren_Solis@frazier-lewis.com,2014-09-22,13418359,True,True,False,True
 Michelle Kidd,Michelle_Kidd@klein-goodman.com,1950-02-22,8051 1627,True,True,True,False
-Michael Shannon,Michael_Shannon@martinez-mccann.info,2005-09-05,996129,True,False,True,False
+Michael Shannon,Michael_Shannon@martinez-mccann.info,2005-09-05,996129,True,False,False,False
 Sheila Garcia,Sheila_Garcia@griffin-garcia.org,1985-03-18,17726,True,False,True,False
 Rebecca Rogers,Rebecca_Rogers@graves-clark.com,1987-05-24,504393,True,True,True,False
 Dana Tran,Dana_Tran@brown.com,2016-12-15,8245840,True,True,False,False
@@ -1611,7 +1616,7 @@ Jennifer Evans,Jennifer_Evans@bender.info,1992-02-02,3653070,True,False,True,Fal
 Martha Mahoney,Martha_Mahoney@stephens.biz,1965-05-15,9900465,True,False,True,False
 Daniel Shelton,Daniel_Shelton@kent.biz,2009-08-13,18052207,True,False,False,True
 Jacqueline Sandoval,Jacqueline_Sandoval@craig.com,1962-12-03,858903,True,True,True,False
-Yvette Gonzales,Yvette_Gonzales@campbell.info,2004-05-19,7022436,True,False,True,False
+Yvette Gonzales,Yvette_Gonzales@campbell.info,2004-05-19,7022436,True,False,False,False
 Sherry Randolph,Sherry_Randolph@wood.com,1971-09-08,2831501,True,True,True,False
 Nicholas Vincent,Nicholas_Vincent@clark-jones.com,1961-02-10,1589155,True,True,True,False
 Nicole Banks,Nicole_Banks@mosley-blackwell.com,2006-04-06,72706,True,True,False,False
@@ -1728,11 +1733,11 @@ Robert Cabrera,Robert_Cabrera@kim.org,1995-06-07,99768879,True,False,True,True
 Megan Morrison,Megan_Morrison@long-weaver.com,1973-03-19,7875155,True,True,True,False
 Jaime Mcdaniel,Jaime_Mcdaniel@mcclure-brooks.biz,2017-05-19,69676,True,False,False,False
 Joseph Williams,Joseph_Williams@patterson-flores.biz,2002-01-28,8489027,True,False,True,False
-Kevin Madden,Kevin_Madden@decker.com,2005-12-26,47551,True,True,True,False
+Kevin Madden,Kevin_Madden@decker.com,2005-12-26,47551,True,True,False,False
 Philip Cruz,Philip_Cruz@cohen.net,2007-10-04,2887249,True,True,False,False
 Andrew Shaw,Andrew_Shaw@lee.biz,1990-09-27,366219,True,False,True,False
 Jessica Sexton,Jessica_Sexton@anderson.com,2007-02-18,963483,True,True,False,False
-Stephen Campos,Stephen_Campos@lam.biz,2005-01-23,19488863,True,False,True,True
+Stephen Campos,Stephen_Campos@lam.biz,2005-01-23,19488863,True,False,False,True
 Robert Griffith,Robert_Griffith@montgomery-roberts.info,1980-08-01,243957,True,False,True,False
 John Aguilar,John_Aguilar@murphy-zuniga.com,1953-10-19,99521,True,True,True,False
 Jesus Meyer,Jesus_Meyer@sanford.com,1960-03-10,5316837,True,True,True,False
@@ -1746,7 +1751,7 @@ Philip Banks,Philip_Banks@boyer.com,1996-10-06,70481,True,True,True,False
 Janet King,Janet_King@collins.biz,2014-07-30,6330059,True,False,False,False
 Michael Pierce,Michael_Pierce@boyd-griffith.com,1966-11-11,12221,True,True,True,False
 Michael Serrano,Michael_Serrano@turner-maldonado.com,1982-07-11,1279 2543,True,True,True,False
-Joseph Brown,Joseph_Brown@hays.net,2005-04-14,29911,True,True,True,False
+Joseph Brown,Joseph_Brown@hays.net,2005-04-14,29911,True,True,False,False
 Richard Martin,Richard_Martin@russell.com,1965-11-22,185529,True,True,True,False
 Brenda Turner,Brenda_Turner@vance-king.com,1990-03-14,5812899,True,True,True,False
 Jennifer Conrad,Jennifer_Conrad@white-bennett.com,1997-06-03,7310892,True,True,True,False
@@ -1780,7 +1785,7 @@ Billy Knight,Billy_Knight@thomas.biz,1955-01-27,4983 3743,True,False,True,False
 Shane Davis,Shane_Davis@smith.net,2006-06-25,42361783,True,True,False,True
 Laura Harding,Laura_Harding@jackson.com,2017-12-18,32048503,True,True,False,True
 Zachary Payne,Zachary_Payne@espinoza.info,2018-02-17,7802719,True,False,False,False
-Jeffery Leon,Jeffery_Leon@clark.com,2004-03-24,9076271,True,True,True,False
+Jeffery Leon,Jeffery_Leon@clark.com,2004-03-24,9076271,True,True,False,False
 Jennifer Martin,Jennifer_Martin@anderson-ford.com,1999-01-12,1878563,True,True,True,False
 Lori Zimmerman,Lori_Zimmerman@smith-bradley.biz,1998-02-17,14572007,True,False,True,True
 Katie Mcgee,Katie_Mcgee@moran.com,1967-06-25,65726,True,True,True,False
@@ -1801,10 +1806,11 @@ Karen Lopez,Karen_Lopez@vargas-lewis.com,1985-06-24,8649712,True,True,True,False
 Rebekah Jackson,Rebekah_Jackson@cook.info,1968-05-14,14674871,True,False,True,True
 Melissa Hogan,Melissa_Hogan@rodriguez-hughes.biz,2015-05-31,68883495,True,False,False,True
 Megan Wilson,Megan_Wilson@martinez.com,1953-08-31,591723,True,True,True,False
-Justin Roberts,Justin_Roberts@wilson.com,2004-12-02,1171528,True,True,True,False
+Justin Roberts,Justin_Roberts@wilson.com,2004-12-02,1171528,True,True,False,False
 Ashley Fernandez,Ashley_Fernandez@johnson-perry.info,1960-03-22,49631,True,False,True,False
 Terry Oliver,Terry_Oliver@raymond-stewart.info,2013-08-07,6019686,True,False,False,False
 Mr. Timothy Ortega,Timothy_Ortega@ramos.com,1998-01-04,5931 2963,True,True,True,False
+Brittany Ellison,Brittany_Ellison@nolan.com,2004-04-04,82360847,True,True,False,True
 Aaron Clark,Aaron_Clark@sanchez.com,1964-05-11,3522877,True,True,True,False
 Michael Johnson,Michael_Johnson@jackson-cervantes.com,1950-07-08,763653,True,True,True,False
 Heather Jones,Heather_Jones@medina.org,2009-11-07,57191,True,False,False,False
@@ -1843,7 +1849,7 @@ Nicole Page,Nicole_Page@ross.com,1984-07-04,60101,True,True,True,False
 Anna Crawford,Anna_Crawford@brown.com,2008-02-17,8133399,True,True,False,False
 David Stokes,David_Stokes@tyler-smith.org,1981-08-25,1236621,True,False,True,False
 John Howell,John_Howell@sims.biz,1959-08-21,7727 5467,True,False,True,False
-Lacey Cochran,Lacey_Cochran@flowers.com,2004-09-28,38946,True,True,True,False
+Lacey Cochran,Lacey_Cochran@flowers.com,2004-09-28,38946,True,True,False,False
 Jessica Burns,Jessica_Burns@maynard-ruiz.com,1981-06-01,231345,True,True,True,False
 Matthew Blevins,Matthew_Blevins@johnson.com,1965-03-09,24726,True,True,True,False
 Sabrina Young,Sabrina_Young@walters-freeman.net,2011-02-11,26381,True,True,False,False
@@ -1959,10 +1965,11 @@ Katherine Ward,Katherine_Ward@foster.com,1980-02-21,62901,True,True,True,False
 Angelica Delgado,Angelica_Delgado@hensley.org,1988-05-26,2668891,True,False,True,False
 William Burke,William_Burke@lane.info,1992-12-29,215793,True,False,True,False
 Michele Hurley,Michele_Hurley@henry.com,1964-06-15,5835789,True,True,True,False
+Ashley Rogers,Ashley_Rogers@elliott-johnson.com,2004-12-06,97874903,True,True,False,True
 Jennifer Kim,Jennifer_Kim@maxwell.com,1994-05-19,895473,True,True,True,False
 Corey Roth,Corey_Roth@rivera.com,2007-05-10,893955,True,True,False,False
 Gabriella Conner,Gabriella_Conner@martinez-vega.info,1960-09-23,9246147,True,False,True,False
-Madison Owen,Madison_Owen@barron.com,2004-07-19,68116,True,True,True,False
+Madison Owen,Madison_Owen@barron.com,2004-07-19,68116,True,True,False,False
 Alicia Kaufman,Alicia_Kaufman@phillips.biz,1991-04-02,5434486,True,False,True,False
 Gregory Allen,Gregory_Allen@stanley.net,1978-01-22,4887 1907,True,True,True,False
 Emma Morse,Emma_Morse@keller-morales.com,2013-10-20,221937,True,True,False,False
@@ -1979,7 +1986,7 @@ Gregory Jones MD,Gregory_Jones@mcdonald.net,1952-06-12,33721,True,True,True,Fals
 Gary Murphy,Gary_Murphy@singleton.info,1999-10-12,96047135,True,False,True,True
 Ashley Marsh,Ashley_Marsh@norris-kelly.com,1978-05-29,404601,True,True,True,False
 Michael Jones,Michael_Jones@mcdaniel.org,2008-11-24,16126,True,False,False,False
-Diane Herrera,Diane_Herrera@alvarado.org,2005-06-12,9183 7411,True,False,True,False
+Diane Herrera,Diane_Herrera@alvarado.org,2005-06-12,9183 7411,True,False,False,False
 Andrew Gibson,Andrew_Gibson@yu-richardson.org,1953-09-08,15513119,True,False,True,True
 Tyler Morris MD,Tyler_Morris@cross.com,2017-05-23,26630807,True,True,False,True
 Cassandra Lewis,Cassandra_Lewis@ward.org,2012-08-27,86877407,True,False,False,True
@@ -1994,7 +2001,7 @@ Jonathan Smith,Jonathan_Smith@aguilar.biz,1972-04-02,941157,True,False,True,Fals
 Joseph Acosta,Joseph_Acosta@hansen.biz,1967-04-18,4411 5387,True,False,True,False
 Samantha Miller,Samantha_Miller@west.com,1959-10-11,8809872,True,True,True,False
 John Frazier,John_Frazier@webster.com,1977-02-09,9296190,True,True,True,False
-Eric Mejia,Eric_Mejia@scott-dunn.com,2004-09-24,70801,True,True,True,False
+Eric Mejia,Eric_Mejia@scott-dunn.com,2004-09-24,70801,True,True,False,False
 Lisa Ramirez,Lisa_Ramirez@george.org,2009-01-13,14592223,True,False,False,True
 Larry Cox,Larry_Cox@green.info,1952-10-09,31571,True,False,True,False
 Renee Oneal,Renee_Oneal@adams.com,2008-05-02,6169717,True,True,False,False
@@ -2009,6 +2016,7 @@ Lisa Schultz,Lisa_Schultz@molina.com,2011-04-17,76236,True,True,False,False
 Jessica Hughes,Jessica_Hughes@wright.com,1993-05-21,56956,True,True,True,False
 Kimberly Reid,Kimberly_Reid@ramirez.com,1964-07-27,41556,True,True,True,False
 William Young,William_Young@allen-collins.net,1987-06-11,531231,True,True,True,False
+Robert Zuniga,Robert_Zuniga@rodriguez-garcia.com,2005-07-04,58375519,True,True,False,True
 Caroline Rodriguez,Caroline_Rodriguez@mendoza.biz,1990-10-29,2282582,True,False,True,False
 Monique Sharp,Monique_Sharp@burton.biz,1969-03-17,936291,True,False,True,False
 Antonio Smith,Antonio_Smith@ramirez-zamora.com,2015-02-05,50487943,True,True,False,True
@@ -2031,7 +2039,7 @@ Daniel Gutierrez,Daniel_Gutierrez@shaffer-allen.info,1970-01-14,79996,True,False
 Jennifer Johnson,Jennifer_Johnson@osborn.com,1997-09-22,516345,True,True,True,False
 Tammy Harris,Tammy_Harris@gamble-baker.net,1961-09-19,7570858,True,True,True,False
 Dominique Reynolds,Dominique_Reynolds@shannon-miller.net,1963-04-04,4518669,True,True,True,False
-Brad Shaw,Brad_Shaw@berg-weaver.com,2004-09-10,9523 2383,True,True,True,False
+Brad Shaw,Brad_Shaw@berg-weaver.com,2004-09-10,9523 2383,True,True,False,False
 Jennifer Marks,Jennifer_Marks@taylor-davis.com,1967-08-12,5313106,True,True,True,False
 Sara Scott,Sara_Scott@richards.org,1979-08-03,6081594,True,False,True,False
 Dr. Richard Walker,Richard_Walker@phelps.info,1964-11-24,1764687,True,False,True,False
@@ -2094,7 +2102,7 @@ Denise Peterson,Denise_Peterson@cook.info,1983-10-20,45291,True,False,True,False
 Jerry Brown,Jerry_Brown@patel.biz,2012-06-10,6606755,True,False,False,False
 Margaret Frazier,Margaret_Frazier@cook.com,2009-07-07,11301,True,True,False,False
 Ricky Johnson,Ricky_Johnson@brown.biz,1982-01-26,641835,True,False,True,False
-Mrs. Sara Romero,Sara_Romero@downs.biz,2004-05-14,7661032,True,False,True,False
+Mrs. Sara Romero,Sara_Romero@downs.biz,2004-05-14,7661032,True,False,False,False
 Samuel Reynolds,Samuel_Reynolds@castro-flores.net,1969-12-26,199599,True,True,True,False
 Andrew Foley,Andrew_Foley@reyes.org,2006-05-08,6758816,True,False,False,False
 Anthony Gross,Anthony_Gross@pratt.com,1966-04-23,9219 3723,True,True,True,False
@@ -2106,7 +2114,7 @@ Bradley Gibson,Bradley_Gibson@maddox-jordan.net,1999-09-07,75496,True,True,True,
 Heidi Ortiz,Heidi_Ortiz@carr.org,1981-09-13,199965,True,False,True,False
 Malik Clark,Malik_Clark@stein-dickerson.com,1964-02-19,8448084,True,True,True,False
 Nicole Henderson DVM,Nicole_Henderson@johnson-ramos.com,1954-12-18,599097,True,True,True,False
-Katie Merritt,Katie_Merritt@bell.com,2005-10-20,477885,True,True,True,False
+Katie Merritt,Katie_Merritt@bell.com,2005-10-20,477885,True,True,False,False
 Michelle Hall,Michelle_Hall@fleming.com,1957-11-06,94591,True,True,True,False
 Amanda Martinez,Amanda_Martinez@avila.com,1981-06-16,663387,True,True,True,False
 Kenneth Cortez,Kenneth_Cortez@lewis.biz,2000-05-18,39338615,True,False,True,True
@@ -2116,14 +2124,14 @@ Veronica Sloan,Veronica_Sloan@lang.com,2008-07-02,6247 4843,True,True,False,Fals
 Duane Alvarez,Duane_Alvarez@haynes.biz,1972-11-02,27726,True,False,True,False
 James Lee,James_Lee@merritt.com,1957-12-31,641895,True,True,True,False
 Christopher Meza,Christopher_Meza@ray.com,1990-11-28,969195,True,True,True,False
-Nathaniel Miller,Nathaniel_Miller@harvey-price.com,2005-06-28,25496,True,True,True,False
+Nathaniel Miller,Nathaniel_Miller@harvey-price.com,2005-06-28,25496,True,True,False,False
 Mariah Cervantes,Mariah_Cervantes@fernandez-kelly.biz,1972-09-07,79716,True,False,True,False
 Joshua Jones,Joshua_Jones@hanson.biz,1981-09-20,3031 7003,True,False,True,False
 Brenda Jones,Brenda_Jones@casey.info,1990-10-25,1568113,True,False,True,False
 Jennifer Booker,Jennifer_Booker@byrd.info,1975-10-30,6465586,True,False,True,False
 Seth Castaneda,Seth_Castaneda@hunter.net,1994-09-09,6688305,True,True,True,False
 Rachel Kennedy,Rachel_Kennedy@arnold-silva.net,1988-12-29,2272495,True,True,True,False
-Susan Smith,Susan_Smith@salazar.com,2005-06-20,425601,True,True,True,False
+Susan Smith,Susan_Smith@salazar.com,2005-06-20,425601,True,True,False,False
 Jordan Barnes,Jordan_Barnes@fitzpatrick.com,1956-05-03,521001,True,True,True,False
 Brenda Turner,Brenda_Turner@hampton.org,1955-07-26,94128415,True,False,True,True
 James Stanley,James_Stanley@beltran.com,2001-10-08,5135 1887,True,True,True,False
@@ -2234,6 +2242,7 @@ Mr. David Brown,David_Brown@harding.org,1997-11-26,2764749,True,False,True,False
 Regina Smith,Regina_Smith@norris-brown.org,1954-07-01,69281,True,False,True,False
 John Gardner,John_Gardner@heath.com,1980-02-19,3945712,True,True,True,False
 Vanessa Alvarez,Vanessa_Alvarez@allen.org,2000-09-24,42263183,True,False,True,True
+Michael Wu,Michael_Wu@gutierrez.com,2004-11-30,29225607,True,True,False,True
 Jenny Fox,Jenny_Fox@ross.com,1978-10-18,8239141,True,True,True,False
 Elizabeth Cole,Elizabeth_Cole@kaufman-zavala.com,2003-02-17,702021,True,True,True,False
 Justin Holmes,Justin_Holmes@davis.biz,1993-12-15,6934432,True,False,True,False
@@ -2273,7 +2282,7 @@ Monique Thompson,Monique_Thompson@davis.biz,1996-07-15,6967 1135,True,False,True
 Tammy Anderson,Tammy_Anderson@turner.com,1970-01-17,566985,True,True,True,False
 Robert Foster,Robert_Foster@williams.com,1964-12-22,973749,True,True,True,False
 Phillip White,Phillip_White@davis.com,1993-03-03,43136,True,True,True,False
-Jeffrey Reeves,Jeffrey_Reeves@howard.org,2005-12-19,11451,True,False,True,False
+Jeffrey Reeves,Jeffrey_Reeves@howard.org,2005-12-19,11451,True,False,False,False
 Michelle Dodson,Michelle_Dodson@wright.net,2013-01-03,180753,True,True,False,False
 Deborah Carter,Deborah_Carter@collins.com,2013-03-01,45711759,True,True,False,True
 Donna Lloyd,Donna_Lloyd@newton-reynolds.info,1956-02-06,124611,True,False,True,False
@@ -2311,8 +2320,9 @@ Linda Baker,Linda_Baker@moran.info,1995-04-10,23696,True,False,True,False
 Amanda Ray,Amanda_Ray@miller.com,2015-08-21,67585215,True,True,False,True
 Bruce Williams,Bruce_Williams@foster.biz,1969-07-28,8124901,True,False,True,False
 Amy Castillo,Amy_Castillo@brooks-mcintyre.com,1963-03-30,8119042,True,True,True,False
-Kyle Turner,Kyle_Turner@wright-williams.com,2004-11-26,54311,True,True,True,False
+Kyle Turner,Kyle_Turner@wright-williams.com,2004-11-26,54311,True,True,False,False
 Steven Mason,Steven_Mason@fischer-nelson.info,1962-11-12,342939,True,False,True,False
+Kimberly Kelly,Kimberly_Kelly@smith-davis.com,2004-04-03,97604615,True,True,False,True
 Melissa Ellis,Melissa_Ellis@gonzalez-miranda.com,1988-09-07,243687,True,True,True,False
 Mark Mcmillan,Mark_Mcmillan@young.com,1952-04-29,8910910,True,True,True,False
 Erin Bautista,Erin_Bautista@kline.com,1979-01-28,7454014,True,True,True,False
@@ -2347,7 +2357,7 @@ Angela Lopez,Angela_Lopez@flynn-moore.org,2010-04-26,40176,True,False,False,Fals
 Mariah Jones,Mariah_Jones@butler-murphy.com,1961-02-03,2175027,True,True,True,False
 Melissa Yates,Melissa_Yates@baxter-kaiser.com,1970-10-15,67396,True,True,True,False
 Chad Hill MD,Chad_Hill@murphy.biz,2003-10-07,19026,True,False,True,False
-Dalton Marshall,Dalton_Marshall@perez.com,2005-06-22,75676,True,True,True,False
+Dalton Marshall,Dalton_Marshall@perez.com,2005-06-22,75676,True,True,False,False
 Megan Davis,Megan_Davis@bonilla.com,2018-12-05,856173,True,True,False,False
 Jay Hunt,Jay_Hunt@villanueva-estrada.org,2009-06-15,71646,True,False,False,False
 Craig Brady,Craig_Brady@lee-smith.com,1997-09-10,70746,True,True,True,False
@@ -2360,14 +2370,14 @@ Albert Sellers,Albert_Sellers@gonzalez.com,2012-08-27,9135232,True,True,False,Fa
 Jennifer Snyder,Jennifer_Snyder@allen-hernandez.com,1994-08-05,4231046,True,True,True,False
 John Scott,John_Scott@rodgers.com,2018-12-25,88527399,True,True,False,True
 Gabrielle Brown DVM,Gabrielle_Brown@curtis.org,1998-06-26,6128914,True,False,True,False
-Devon Ramsey,Devon_Ramsey@wilson-sanchez.info,2005-08-03,181269,True,False,True,False
+Devon Ramsey,Devon_Ramsey@wilson-sanchez.info,2005-08-03,181269,True,False,False,False
 Linda Palmer,Linda_Palmer@collins-garrett.com,2012-01-20,66506,True,True,False,False
 Laura Vargas,Laura_Vargas@myers.net,1951-06-29,44031,True,True,True,False
 Felicia Stewart,Felicia_Stewart@castaneda-hines.com,1950-06-24,764061,True,True,True,False
 Antonio Lewis,Antonio_Lewis@robinson-sullivan.info,2018-11-03,7496112,True,False,False,False
 Andrew Nielsen,Andrew_Nielsen@cole.com,1982-11-13,287115,True,True,True,False
 Lindsay Carpenter,Lindsay_Carpenter@hernandez.info,1962-03-08,25691,True,False,True,False
-Chris Stewart,Chris_Stewart@lyons.net,2004-11-09,619833,True,True,True,False
+Chris Stewart,Chris_Stewart@lyons.net,2004-11-09,619833,True,True,False,False
 Robert Moore,Robert_Moore@collins.com,1950-03-17,1399812,True,True,True,False
 Timothy Ray,Timothy_Ray@torres.biz,1962-01-27,353613,True,False,True,False
 Scott Day,Scott_Day@robinson.info,2017-07-27,32726,True,False,False,False
@@ -2383,7 +2393,7 @@ Jennifer Burke DDS,Jennifer_Burke@sampson-davis.com,1981-10-09,9728258,True,True
 Kelly Douglas,Kelly_Douglas@walton.com,1988-11-04,2470602,True,True,True,False
 Nancy Marshall,Nancy_Marshall@wood.net,1972-06-20,7573700,True,True,True,False
 Jorge Johnson,Jorge_Johnson@sanchez.com,1967-02-24,66181,True,True,True,False
-Amy French,Amy_French@castro.com,2005-05-09,290895,True,True,True,False
+Amy French,Amy_French@castro.com,2005-05-09,290895,True,True,False,False
 Virginia Chambers DDS,Virginia_Chambers@lewis.com,1982-02-04,1259959,True,True,True,False
 Mary Pollard,Mary_Pollard@francis.com,1985-09-21,977979,True,True,True,False
 Edward Norris,Edward_Norris@harris-long.info,2010-10-14,820179,True,False,False,False
@@ -2393,6 +2403,7 @@ Sonya Griffith,Sonya_Griffith@harris.com,2006-04-28,30409567,True,True,False,Tru
 Patrick Gallagher,Patrick_Gallagher@higgins.com,1986-12-16,391455,True,True,True,False
 Jonathan Miller,Jonathan_Miller@rodgers-sanchez.info,1990-03-02,4791452,True,False,True,False
 Heather Ballard,Heather_Ballard@armstrong.net,1952-01-25,84416,True,True,True,False
+Andre Manning,Andre_Manning@reeves-marshall.com,2004-12-08,66456055,True,True,False,True
 Ashley Soto,Ashley_Soto@yoder.com,2006-11-04,76666,True,True,False,False
 Dr. Elizabeth Clark,Elizabeth_Clark@parker.net,2017-08-26,17305399,True,True,False,True
 Patricia Young,Patricia_Young@sims.biz,2002-07-28,11131,True,False,True,False
@@ -2601,7 +2612,7 @@ Alicia Todd,Alicia_Todd@barnett.com,1967-03-07,54896,True,True,True,False
 Annette Morris,Annette_Morris@sosa.net,2009-08-26,3860004,True,True,False,False
 Lindsey Hines,Lindsey_Hines@walker.org,1996-01-25,2161706,True,False,True,False
 John Harmon,John_Harmon@blake.org,1992-11-16,97461,True,False,True,False
-Alexis Williams,Alexis_Williams@miller.com,2005-09-27,3939 4983,True,True,True,False
+Alexis Williams,Alexis_Williams@miller.com,2005-09-27,3939 4983,True,True,False,False
 Andrea Oliver,Andrea_Oliver@frazier.com,1956-05-05,865773,True,True,True,False
 Darrell Smith,Darrell_Smith@crawford.com,1963-07-23,12376,True,True,True,False
 Patrick Hendrix,Patrick_Hendrix@jones.com,2006-09-17,8347 9771,True,True,False,False
@@ -2631,7 +2642,7 @@ Cameron Nielsen,Cameron_Nielsen@wright.biz,2000-02-11,6402635,True,False,True,Fa
 Frank Jones,Frank_Jones@miranda.com,1979-01-13,682293,True,True,True,False
 James Jordan,James_Jordan@taylor.com,2011-02-23,64911,True,True,False,False
 Destiny Rojas,Destiny_Rojas@stanton.com,1986-01-21,2735 1983,True,True,True,False
-Lisa Clark,Lisa_Clark@alvarez.com,2004-03-19,682125,True,True,True,False
+Lisa Clark,Lisa_Clark@alvarez.com,2004-03-19,682125,True,True,False,False
 Lori Valdez,Lori_Valdez@jordan.org,1973-03-12,502911,True,False,True,False
 Danny Lewis,Danny_Lewis@turner.com,1952-12-25,4103 6747,True,True,True,False
 Richard Bauer,Richard_Bauer@knight.com,1957-12-27,9979628,True,True,True,False
@@ -2677,7 +2688,7 @@ Rachel Lynch,Rachel_Lynch@stewart.info,1975-07-30,654999,True,False,True,False
 Victoria Carroll,Victoria_Carroll@rasmussen.net,1984-01-08,902871,True,True,True,False
 Richard Duffy,Richard_Duffy@wilkerson-morrow.com,1957-10-01,9010016,True,True,True,False
 Harold Rowe,Harold_Rowe@jarvis.info,1950-09-10,1615566,True,False,True,False
-Jasmine Bailey,Jasmine_Bailey@howard-thomas.info,2005-06-10,618669,True,False,True,False
+Jasmine Bailey,Jasmine_Bailey@howard-thomas.info,2005-06-10,618669,True,False,False,False
 Victoria Goodman,Victoria_Goodman@carney.com,1985-03-16,332739,True,True,True,False
 Christopher Frost,Christopher_Frost@frost.biz,1972-08-26,63876,True,False,True,False
 Michael Larsen,Michael_Larsen@salazar.biz,2012-08-03,97036103,True,False,False,True
@@ -2713,8 +2724,9 @@ Daniel Mitchell,Daniel_Mitchell@kelly.com,1991-08-07,8521101,True,True,True,Fals
 Steven Williams MD,Steven_Williams@carr.com,2014-12-25,534321,True,True,False,False
 Nicholas White,Nicholas_White@smith-elliott.com,1974-03-01,844203,True,True,True,False
 Robert Le,Robert_Le@norris-strickland.org,1950-03-23,9075088,True,False,True,False
-William Daniels,William_Daniels@williams.com,2004-05-09,6178159,True,True,True,False
+William Daniels,William_Daniels@williams.com,2004-05-09,6178159,True,True,False,False
 Anthony Hoffman,Anthony_Hoffman@johnson.net,1993-08-22,93206,True,True,True,False
+Jessica Smith,Jessica_Smith@galloway.com,2004-06-29,11145663,True,True,False,True
 Charles Martinez,Charles_Martinez@gonzales.org,1978-09-18,970215,True,False,True,False
 Cynthia Oconnor,Cynthia_Oconnor@miller-jones.com,1981-09-23,2197105,True,True,True,False
 Wesley Williams,Wesley_Williams@parker-schmidt.com,1988-04-01,49616,True,True,True,False
@@ -2733,10 +2745,10 @@ Hector Adams,Hector_Adams@wood.com,1988-11-04,90176,True,True,True,False
 Samantha George,Samantha_George@golden.info,1989-03-31,58989271,True,False,True,True
 Peter Sanders,Peter_Sanders@cook-jackson.biz,1970-03-30,399357,True,False,True,False
 Yvonne Coleman,Yvonne_Coleman@hood.com,1985-05-19,5295711,True,True,True,False
-Charles Miller,Charles_Miller@daniel-pugh.org,2004-06-16,56397471,True,False,True,True
+Charles Miller,Charles_Miller@daniel-pugh.org,2004-06-16,56397471,True,False,False,True
 Mathew Harmon,Mathew_Harmon@wheeler-stewart.com,1954-12-24,13456,True,True,True,False
 Heather Collins,Heather_Collins@freeman-taylor.org,1965-04-11,861249,True,False,True,False
-Anne Mccullough,Anne_Mccullough@blake.com,2005-03-11,541407,True,True,True,False
+Anne Mccullough,Anne_Mccullough@blake.com,2005-03-11,541407,True,True,False,False
 Stephen Brown,Stephen_Brown@johnson.org,1989-11-05,381537,True,False,True,False
 Mark Morales,Mark_Morales@adams-tyler.com,1985-06-24,618219,True,True,True,False
 Michelle Stone,Michelle_Stone@williamson-gray.com,1968-09-20,890823,True,True,True,False
@@ -2772,7 +2784,7 @@ Samantha Smith,Samantha_Smith@ortega-nielsen.com,1980-12-16,74866,True,True,True
 Thomas Rogers,Thomas_Rogers@banks-perkins.net,1997-08-19,3607 2875,True,True,True,False
 Ryan Hammond,Ryan_Hammond@simpson-torres.com,1960-11-23,9762950,True,True,True,False
 Jillian Smith,Jillian_Smith@mckinney.com,1972-09-30,732549,True,True,True,False
-Charles Harris MD,Charles_Harris@romero.com,2005-10-01,687597,True,True,True,False
+Charles Harris MD,Charles_Harris@romero.com,2005-10-01,687597,True,True,False,False
 Jenny Lewis,Jenny_Lewis@flores.com,1997-07-06,6247 5987,True,True,True,False
 Ian Park,Ian_Park@acevedo-chapman.org,1977-10-17,625149,True,False,True,False
 David Guzman,David_Guzman@ray.net,2018-02-07,3298254,True,True,False,False
@@ -2800,12 +2812,12 @@ William Oconnor,William_Oconnor@johnson-ponce.com,2016-06-27,818787,True,True,Fa
 Caleb Kelly,Caleb_Kelly@gomez.net,2009-08-03,6423 4299,True,True,False,False
 Rachael Garcia,Rachael_Garcia@padilla.com,1986-06-21,1139587,True,True,True,False
 Brandon Weber,Brandon_Weber@harmon.com,1992-02-14,58741,True,True,True,False
-Thomas Hoover,Thomas_Hoover@schroeder.com,2004-08-24,398055,True,True,True,False
+Thomas Hoover,Thomas_Hoover@schroeder.com,2004-08-24,398055,True,True,False,False
 Michelle Jimenez,Michelle_Jimenez@hartman.com,1982-07-25,939279,True,True,True,False
 Rebecca Davis,Rebecca_Davis@abbott.com,2011-10-20,84764295,True,True,False,True
 Miranda Flynn,Miranda_Flynn@lee.com,1964-05-14,257685,True,True,True,False
 Jennifer Perez,Jennifer_Perez@olsen.com,1976-10-30,622833,True,True,True,False
-James Newton,James_Newton@jimenez.biz,2004-10-08,84097639,True,False,True,True
+James Newton,James_Newton@jimenez.biz,2004-10-08,84097639,True,False,False,True
 Peter Hernandez,Peter_Hernandez@stewart.info,1964-03-31,1291494,True,False,True,False
 Nicholas Combs,Nicholas_Combs@walker.com,1967-12-31,6877165,True,True,True,False
 Karen Wilson,Karen_Wilson@brown.org,2006-01-02,327375,True,False,False,False
@@ -2831,8 +2843,8 @@ Dr. William Smith,William_Smith@robinson.com,1963-10-27,70571,True,True,True,Fal
 Terri Aguirre,Terri_Aguirre@myers-shepherd.biz,1984-07-14,889899,True,False,True,False
 Natalie Haney,Natalie_Haney@buck.com,1986-03-02,180939,True,True,True,False
 Casey Holder,Casey_Holder@schultz.com,2016-12-07,9841448,True,True,False,False
-Lisa Duran,Lisa_Duran@page-oneill.com,2004-01-19,294525,True,True,True,False
-David Smith,David_Smith@allen-brown.com,2005-08-25,3003 3195,True,True,True,False
+Lisa Duran,Lisa_Duran@page-oneill.com,2004-01-19,294525,True,True,False,False
+David Smith,David_Smith@allen-brown.com,2005-08-25,3003 3195,True,True,False,False
 Emily Andrews,Emily_Andrews@reyes-singh.com,1955-04-27,2059 4859,True,True,True,False
 Kyle Harvey,Kyle_Harvey@atkinson.biz,2006-05-30,1443996,True,False,False,False
 Laura Wu,Laura_Wu@watson.org,1985-06-14,232989,True,False,True,False
@@ -2879,7 +2891,7 @@ Brandon Murphy,Brandon_Murphy@luna.info,1955-04-09,33155895,True,False,True,True
 Paul Ward,Paul_Ward@sanchez-larsen.org,1955-09-08,1911 9523,True,False,True,False
 Cynthia Ward,Cynthia_Ward@burns.com,1968-03-21,42746,True,True,True,False
 Stephen Roberts,Stephen_Roberts@rodriguez.com,2013-03-15,868311,True,True,False,False
-Victor Rivera,Victor_Rivera@chavez.biz,2004-01-09,4885658,True,False,True,False
+Victor Rivera,Victor_Rivera@chavez.biz,2004-01-09,4885658,True,False,False,False
 Ryan Olsen,Ryan_Olsen@blankenship.com,2012-04-19,864729,True,True,False,False
 Alejandra Jones,Alejandra_Jones@williams-smith.net,1968-09-18,6885152,True,True,True,False
 Cheyenne Miranda,Cheyenne_Miranda@contreras.info,1971-06-01,59901,True,False,True,False
@@ -2915,7 +2927,7 @@ Scott Sandoval,Scott_Sandoval@campbell.com,1971-10-20,50811,True,True,True,False
 Jeremy Hunter,Jeremy_Hunter@alexander-smith.com,1953-11-19,34301,True,True,True,False
 Monica Lloyd,Monica_Lloyd@schneider.info,1961-02-25,52106,True,False,True,False
 Ryan Scott,Ryan_Scott@wilson.info,2007-02-22,5654706,True,False,False,False
-Heidi Brown,Heidi_Brown@foster-jones.com,2004-06-06,1259 4379,True,True,True,False
+Heidi Brown,Heidi_Brown@foster-jones.com,2004-06-06,1259 4379,True,True,False,False
 Rebecca Castillo,Rebecca_Castillo@summers-ward.com,1952-02-06,34261,True,True,True,False
 Terri Cox,Terri_Cox@swanson.com,1955-11-04,375789,True,True,True,False
 Timothy Smith,Timothy_Smith@patton-rose.com,2016-06-16,28316,True,True,False,False
@@ -2959,7 +2971,7 @@ Dean Rice,Dean_Rice@swanson.biz,1988-06-28,1194516,True,False,True,False
 Brenda Boyer,Brenda_Boyer@wells.com,1982-12-11,57961,True,True,True,False
 Melissa Jordan,Melissa_Jordan@lucas-carson.com,1970-12-15,287037,True,True,True,False
 Brianna Valentine,Brianna_Valentine@martinez.com,2001-05-03,8602553,True,True,True,False
-Richard White,Richard_White@osborne.com,2005-05-31,5523 2275,True,True,True,False
+Richard White,Richard_White@osborne.com,2005-05-31,5523 2275,True,True,False,False
 Steven Paul,Steven_Paul@green.biz,1983-11-09,929295,True,False,True,False
 Jessica Peck,Jessica_Peck@martin.net,1951-01-20,8410900,True,True,True,False
 Christopher Hughes,Christopher_Hughes@copeland.com,2002-04-25,652203,True,True,True,False
@@ -2981,7 +2993,7 @@ Alexandra Blackwell,Alexandra_Blackwell@mcclain-walsh.org,1967-11-09,8402234,Tru
 Brian Best,Brian_Best@peters.com,1950-12-10,7831566,True,True,True,False
 Mary Reynolds,Mary_Reynolds@pierce.biz,2007-11-19,37171047,True,False,False,True
 Valerie Armstrong,Valerie_Armstrong@anderson.com,2014-03-29,931329,True,True,False,False
-Joseph Gray,Joseph_Gray@mclaughlin.com,2004-08-20,5385612,True,True,True,False
+Joseph Gray,Joseph_Gray@mclaughlin.com,2004-08-20,5385612,True,True,False,False
 Jennifer Dominguez,Jennifer_Dominguez@underwood-sawyer.com,1979-06-13,9336104,True,True,True,False
 Heather Rodriguez,Heather_Rodriguez@eaton.com,2006-11-29,98696,True,True,False,False
 Curtis Valdez,Curtis_Valdez@summers.com,1967-11-27,9286432,True,True,True,False
@@ -3007,7 +3019,7 @@ Stephanie Chambers,Stephanie_Chambers@park-hendrix.info,1979-03-04,9500527,True,
 Daniel Rice,Daniel_Rice@bell.com,1957-12-06,415359,True,True,True,False
 Ashley Chase,Ashley_Chase@owen-gillespie.com,1982-11-26,733761,True,True,True,False
 Carlos Rangel,Carlos_Rangel@long-wilson.biz,1983-12-24,17181,True,False,True,False
-Lindsey Castillo,Lindsey_Castillo@white.com,2004-10-16,30681,True,True,True,False
+Lindsey Castillo,Lindsey_Castillo@white.com,2004-10-16,30681,True,True,False,False
 Scott Johnson,Scott_Johnson@sawyer-hood.info,1988-09-18,14521,True,False,True,False
 Sharon Hicks,Sharon_Hicks@mcintosh-hart.com,1965-01-29,1689710,True,True,True,False
 Ashlee Oconnell,Ashlee_Oconnell@mann.com,1997-05-06,92516,True,True,True,False
@@ -3082,7 +3094,7 @@ Aaron Salas,Aaron_Salas@baldwin.com,1987-11-21,81321,True,True,True,False
 Angela Humphrey PhD,Angela_Humphrey@brown-watson.com,1966-07-17,47696,True,True,True,False
 Teresa Flynn,Teresa_Flynn@jimenez.net,1982-06-05,470907,True,True,True,False
 Patrick Powell,Patrick_Powell@ballard.info,1957-01-17,51691,True,False,True,False
-David Brock,David_Brock@buchanan-fernandez.info,2005-12-10,12572831,True,False,True,True
+David Brock,David_Brock@buchanan-fernandez.info,2005-12-10,12572831,True,False,False,True
 Mr. James Roach DDS,James_Roach@wheeler-bailey.org,1953-10-28,8710129,True,False,True,False
 Tanya Le,Tanya_Le@terry-zimmerman.biz,1974-09-17,405807,True,False,True,False
 Joshua Martinez,Joshua_Martinez@sellers.com,1987-04-30,5534593,True,True,True,False
@@ -3127,7 +3139,7 @@ Robert Goodman,Robert_Goodman@johnson.com,1963-02-17,345153,True,True,True,False
 Michael Carrillo,Michael_Carrillo@valentine-medina.biz,2000-04-06,513525,True,False,True,False
 Timothy Manning,Timothy_Manning@church-chang.com,2008-09-08,9011 7723,True,True,False,False
 James Riley,James_Riley@jenkins.com,1981-12-22,7627971,True,True,True,False
-Jennifer Cook,Jennifer_Cook@sandoval.com,2005-09-08,941967,True,True,True,False
+Jennifer Cook,Jennifer_Cook@sandoval.com,2005-09-08,941967,True,True,False,False
 Pamela Baker,Pamela_Baker@smith.biz,2015-02-14,2085315,True,False,False,False
 Donna Lawson,Donna_Lawson@schultz-smith.com,1965-12-12,62051,True,True,True,False
 Blake Murphy,Blake_Murphy@ramirez.com,1986-01-31,1944734,True,True,True,False
@@ -3184,7 +3196,7 @@ Katherine Lawson,Katherine_Lawson@watson.com,1964-07-06,9744127,True,True,True,F
 Catherine Richards,Catherine_Richards@glass.org,2006-11-18,6703852,True,False,False,False
 Kelly Porter,Kelly_Porter@sloan-middleton.com,1982-09-15,4300955,True,True,True,False
 Daniel Perez,Daniel_Perez@hill.com,2018-09-04,8979 6811,True,True,False,False
-Mark Rodriguez,Mark_Rodriguez@anderson.info,2005-05-02,5660635,True,False,True,False
+Mark Rodriguez,Mark_Rodriguez@anderson.info,2005-05-02,5660635,True,False,False,False
 Joseph Riggs,Joseph_Riggs@mckee-williams.com,2018-06-23,383799,True,True,False,False
 Elizabeth Young,Elizabeth_Young@rogers.org,1988-03-30,8826350,True,False,True,False
 Cory Garcia,Cory_Garcia@evans-benson.com,1955-02-02,8655 5943,True,True,True,False
@@ -3200,10 +3212,11 @@ Angela Hill,Angela_Hill@sampson-robles.net,1974-01-22,3004366,True,True,True,Fal
 Michael Jackson,Michael_Jackson@wilson.com,1992-12-04,84506,True,True,True,False
 Brandi Campbell MD,Brandi_Campbell@potts-alexander.com,1980-04-29,45351,True,True,True,False
 Nancy Aguilar,Nancy_Aguilar@davis-johnson.com,1987-02-06,1720580,True,True,True,False
-Gregory Garcia,Gregory_Garcia@cox.biz,2005-04-02,192549,True,False,True,False
+Gregory Garcia,Gregory_Garcia@cox.biz,2005-04-02,192549,True,False,False,False
 Ryan Hood,Ryan_Hood@turner.com,1959-06-15,56151,True,True,True,False
 April Garza,April_Garza@lopez-simpson.biz,1971-10-21,41506,True,False,True,False
 Caleb Hayes,Caleb_Hayes@gallagher.com,1992-07-14,4269462,True,True,True,False
+Frank Villegas,Frank_Villegas@johnson-mitchell.com,2005-01-17,71487247,True,True,False,True
 John Gutierrez,John_Gutierrez@olson.com,1961-11-22,274101,True,True,True,False
 Denise Dominguez,Denise_Dominguez@long.com,1966-06-28,2823 5547,True,True,True,False
 Stacy Curtis,Stacy_Curtis@nicholson-gray.com,1989-11-12,520107,True,True,True,False
@@ -3222,7 +3235,7 @@ Hunter Gibson,Hunter_Gibson@foster.com,1962-02-27,1258594,True,True,True,False
 Heather Baldwin,Heather_Baldwin@benjamin.com,1951-05-09,332337,True,True,True,False
 William Washington,William_Washington@adams-stewart.com,1956-06-25,535299,True,True,True,False
 Todd Morris,Todd_Morris@wilcox-fox.biz,2000-04-26,600765,True,False,True,False
-Danielle Herring,Danielle_Herring@osborn-diaz.org,2004-11-06,6663735,True,False,True,False
+Danielle Herring,Danielle_Herring@osborn-diaz.org,2004-11-06,6663735,True,False,False,False
 Jennifer Buck,Jennifer_Buck@wiley-campbell.info,1950-06-16,590529,True,False,True,False
 Mr. Ryan Guzman,Ryan_Guzman@walker-hudson.biz,1962-10-16,79930919,True,False,True,True
 Tanner Flores,Tanner_Flores@clark.com,2010-07-14,63836,True,True,False,False
@@ -3273,7 +3286,7 @@ Dale Wells,Dale_Wells@thompson.com,1967-12-30,42811,True,True,True,False
 David Davis,David_Davis@santiago-delgado.com,2000-10-06,347523,True,True,True,False
 Cindy Curtis,Cindy_Curtis@nguyen-lambert.com,2011-07-24,604107,True,True,False,False
 Danielle Woodward,Danielle_Woodward@garza-stanton.biz,2001-09-27,2209845,True,False,True,False
-Jason Griffin,Jason_Griffin@bishop.net,2005-01-30,135597,True,True,True,False
+Jason Griffin,Jason_Griffin@bishop.net,2005-01-30,135597,True,True,False,False
 Kathy Reid,Kathy_Reid@smith.com,1960-09-04,96416,True,True,True,False
 Jackson Newman,Jackson_Newman@garrison-cox.org,1989-10-10,4225537,True,False,True,False
 Wesley Green,Wesley_Green@estrada-johnson.com,2011-03-30,377433,True,True,False,False
@@ -3281,7 +3294,7 @@ Miranda Mata,Miranda_Mata@martin.com,1993-01-24,6163 2395,True,True,True,False
 Laura Roman,Laura_Roman@harvey-kelley.net,1981-11-14,74756,True,True,True,False
 James Frederick,James_Frederick@thomas.com,2013-04-20,49921,True,True,False,False
 Christopher Lewis,Christopher_Lewis@hampton.com,2001-04-15,650361,True,True,True,False
-Regina Jackson,Regina_Jackson@mcconnell.info,2005-02-23,25845359,True,False,True,True
+Regina Jackson,Regina_Jackson@mcconnell.info,2005-02-23,25845359,True,False,False,True
 Kristin Vargas,Kristin_Vargas@hawkins.com,1978-03-29,356253,True,True,True,False
 Andrew Phillips,Andrew_Phillips@castro-gardner.org,1960-02-12,448035,True,False,True,False
 William Johnson,William_Johnson@jones.biz,2009-02-18,97031,True,False,False,False
@@ -3349,13 +3362,13 @@ Elizabeth Barrera,Elizabeth_Barrera@gibbs.biz,2000-08-16,15349719,True,False,Tru
 Michael Avila,Michael_Avila@ramirez.org,1953-01-23,4615 8431,True,False,True,False
 Justin Lopez,Justin_Lopez@gray.org,1954-05-06,290865,True,False,True,False
 Joseph Mathis,Joseph_Mathis@greene.com,1956-10-31,1554022,True,True,True,False
-Travis Brewer,Travis_Brewer@campbell.biz,2004-08-30,18116,True,False,True,False
+Travis Brewer,Travis_Brewer@campbell.biz,2004-08-30,18116,True,False,False,False
 Mary Snyder,Mary_Snyder@benson.com,2008-08-26,7772500,True,True,False,False
 Juan Liu,Juan_Liu@harvey.com,2014-01-27,134769,True,True,False,False
 Sherry Simpson,Sherry_Simpson@hamilton-wilcox.com,1993-01-02,6626397,True,True,True,False
 Lisa Shaffer,Lisa_Shaffer@beltran-browning.biz,1990-01-29,756045,True,False,True,False
 Juan Chapman,Juan_Chapman@huynh.info,1994-03-15,93221,True,False,True,False
-Paul York,Paul_York@fisher.org,2004-02-15,89802735,True,False,True,True
+Paul York,Paul_York@fisher.org,2004-02-15,89802735,True,False,False,True
 Gina Taylor,Gina_Taylor@yates-kelly.net,2017-05-03,3799 1599,True,True,False,False
 Nancy Williams,Nancy_Williams@davis.com,1997-08-07,4982741,True,True,True,False
 Brandon Nixon,Brandon_Nixon@salas.info,1967-12-24,50571,True,False,True,False
@@ -3394,7 +3407,7 @@ Laura Mason,Laura_Mason@foley-williams.com,1958-10-24,7347145,True,True,True,Fal
 Melissa Burton,Melissa_Burton@jones.com,1974-10-12,328821,True,True,True,False
 Christopher Ramirez,Christopher_Ramirez@wilson.com,2007-08-11,162129,True,True,False,False
 Randy Green,Randy_Green@griffin.info,1956-01-14,37511,True,False,True,False
-Michael Ross,Michael_Ross@martinez-tucker.com,2004-01-10,992109,True,True,True,False
+Michael Ross,Michael_Ross@martinez-tucker.com,2004-01-10,992109,True,True,False,False
 Elizabeth Morris,Elizabeth_Morris@collins.com,1964-10-03,2493828,True,True,True,False
 Erica Williams,Erica_Williams@craig.com,1952-12-25,63091,True,True,True,False
 Mrs. Grace Phillips,Grace_Phillips@foley-davis.info,1969-05-31,71945055,True,False,True,True
@@ -3408,7 +3421,7 @@ Chelsea Williams,Chelsea_Williams@richardson-jones.net,1958-06-25,6541606,True,T
 Denise Kent,Denise_Kent@smith.net,1957-03-08,587991,True,True,True,False
 David Sullivan,David_Sullivan@garcia.biz,1951-11-14,75381,True,False,True,False
 Tracy Irwin,Tracy_Irwin@dawson-williams.com,2010-03-27,84483503,True,True,False,True
-Lisa Edwards,Lisa_Edwards@anderson.biz,2004-03-13,533865,True,False,True,False
+Lisa Edwards,Lisa_Edwards@anderson.biz,2004-03-13,533865,True,False,False,False
 Christopher Ruiz,Christopher_Ruiz@west-lynch.com,1978-05-21,92256,True,True,True,False
 Laura Crane,Laura_Crane@reynolds.net,1963-11-17,9065414,True,True,True,False
 James Robbins,James_Robbins@saunders.com,1972-12-11,834663,True,True,True,False
@@ -3430,8 +3443,8 @@ Rebecca Archer,Rebecca_Archer@day-hoffman.org,1969-05-28,4877972,True,False,True
 Bradley Johnson,Bradley_Johnson@harper.com,1985-10-04,56636,True,True,True,False
 Jessica Saunders,Jessica_Saunders@bruce.com,1951-03-03,6092542,True,True,True,False
 Dawn Brown,Dawn_Brown@hobbs-stevens.com,1982-04-11,38306,True,True,True,False
-Paul George,Paul_George@cruz-martin.com,2005-07-06,59131,True,True,True,False
-Miranda Garrison,Miranda_Garrison@allen.biz,2005-09-26,733041,True,False,True,False
+Paul George,Paul_George@cruz-martin.com,2005-07-06,59131,True,True,False,False
+Miranda Garrison,Miranda_Garrison@allen.biz,2005-09-26,733041,True,False,False,False
 Diane Romero,Diane_Romero@walker-mitchell.com,1975-03-03,5798969,True,True,True,False
 Sylvia Allen,Sylvia_Allen@shannon-roth.net,1977-06-13,35861,True,True,True,False
 Angela Short,Angela_Short@hansen.biz,1987-06-02,1873145,True,False,True,False
@@ -3497,9 +3510,10 @@ Leonard Wheeler,Leonard_Wheeler@hicks-meadows.com,2007-05-21,628131,True,True,Fa
 Jason Santos,Jason_Santos@french.com,1982-02-22,60776,True,True,True,False
 April Spears,April_Spears@stephenson-walton.com,2003-06-20,945729,True,True,True,False
 Gina Butler,Gina_Butler@faulkner.com,2017-02-18,3396884,True,True,False,False
-Cheryl Alvarez,Cheryl_Alvarez@castillo.com,2005-02-15,9165164,True,True,True,False
+Cheryl Alvarez,Cheryl_Alvarez@castillo.com,2005-02-15,9165164,True,True,False,False
 Kyle Lee,Kyle_Lee@lloyd.info,1997-01-18,332493,True,False,True,False
-Dylan White,Dylan_White@wood-howard.com,2004-04-09,72451,True,True,True,False
+Dylan White,Dylan_White@wood-howard.com,2004-04-09,72451,True,True,False,False
+Martin Griffin,Martin_Griffin@allen.com,2005-01-02,36159095,True,True,False,True
 Clinton Curtis,Clinton_Curtis@king-edwards.com,1986-02-28,47846,True,True,True,False
 Justin Lester,Justin_Lester@williams-perez.com,1963-11-02,975069,True,True,True,False
 Vanessa Montgomery,Vanessa_Montgomery@mooney.info,1961-12-02,510339,True,False,True,False
@@ -3513,12 +3527,12 @@ Joe Ewing,Joe_Ewing@alvarez-day.org,2016-03-25,425835,True,False,False,False
 Maria Miller,Maria_Miller@wilson.com,2011-01-04,893049,True,True,False,False
 Seth Mayer,Seth_Mayer@dunn-terry.net,2000-08-04,47526,True,True,True,False
 Erin Sharp,Erin_Sharp@murphy.com,2006-03-14,63091,True,True,False,False
-Cindy Beasley,Cindy_Beasley@russell.com,2004-11-09,162447,True,True,True,False
+Cindy Beasley,Cindy_Beasley@russell.com,2004-11-09,162447,True,True,False,False
 Luis Brown,Luis_Brown@medina.org,1954-09-24,86879631,True,False,True,True
-Cassandra Benjamin,Cassandra_Benjamin@clark.net,2005-01-25,98516,True,True,True,False
+Cassandra Benjamin,Cassandra_Benjamin@clark.net,2005-01-25,98516,True,True,False,False
 Kyle Dickson,Kyle_Dickson@davis.com,1970-06-30,193509,True,True,True,False
 Elizabeth Gomez,Elizabeth_Gomez@miller-roberts.com,1955-10-03,401337,True,True,True,False
-Tracey Kramer,Tracey_Kramer@rice.info,2005-06-12,95921,True,False,True,False
+Tracey Kramer,Tracey_Kramer@rice.info,2005-06-12,95921,True,False,False,False
 David Swanson,David_Swanson@gregory.com,2002-12-20,1675 3799,True,True,True,False
 Kathryn Dyer,Kathryn_Dyer@walker.com,1959-12-10,5787 3103,True,True,True,False
 Shari Barry,Shari_Barry@herrera.com,1969-05-23,7118448,True,True,True,False
@@ -3535,7 +3549,7 @@ Diana Clayton,Diana_Clayton@orozco-clayton.com,1982-11-14,9713278,True,True,True
 Andrea Huynh,Andrea_Huynh@dixon-smith.com,1989-09-29,2679 9851,True,True,True,False
 John Hale,John_Hale@collins-williams.com,1983-06-05,4678353,True,True,True,False
 William Dunn,William_Dunn@mckinney.info,2016-07-04,2520806,True,False,False,False
-Brittany Wade,Brittany_Wade@blair.com,2005-09-26,7047 2003,True,True,True,False
+Brittany Wade,Brittany_Wade@blair.com,2005-09-26,7047 2003,True,True,False,False
 Sheena Lester,Sheena_Lester@vaughan.com,1952-05-22,6322191,True,True,True,False
 Ann Gibson,Ann_Gibson@lewis.com,2011-10-23,1233457,True,True,False,False
 Cynthia Quinn,Cynthia_Quinn@spencer-marshall.com,1963-04-09,5947236,True,True,True,False
@@ -3622,8 +3636,9 @@ Jennifer Jackson,Jennifer_Jackson@griffin.com,1988-02-17,798099,True,True,True,F
 Karen Ruiz,Karen_Ruiz@becker.com,1955-07-21,336843,True,True,True,False
 Jeffrey Rodriguez,Jeffrey_Rodriguez@smith-pena.com,1951-01-17,13931,True,True,True,False
 Andrew Garrett,Andrew_Garrett@burke.com,2006-04-12,59616,True,True,False,False
-Melissa Allison,Melissa_Allison@watkins.info,2005-06-04,75546,True,False,True,False
+Melissa Allison,Melissa_Allison@watkins.info,2005-06-04,75546,True,False,False,False
 Amber Haynes,Amber_Haynes@smith.com,1977-07-10,870567,True,True,True,False
+William Jones,William_Jones@ford.com,2005-10-26,60103815,True,True,False,True
 Steven Morton,Steven_Morton@barker.info,1954-02-09,576027,True,False,True,False
 Kathy Erickson,Kathy_Erickson@martinez.com,2013-01-25,522855,True,True,False,False
 Tammy Miller,Tammy_Miller@bennett.info,1963-04-22,97311,True,False,True,False
@@ -3706,7 +3721,7 @@ Cody Marquez,Cody_Marquez@martinez.com,2010-07-15,924729,True,True,False,False
 Kiara Bishop,Kiara_Bishop@griffin.biz,2006-03-23,28214223,True,False,False,True
 Jesse Moss,Jesse_Moss@kirby.com,1961-07-30,242949,True,True,True,False
 Maria Mcdonald,Maria_Mcdonald@clark.com,1996-04-01,9027572,True,True,True,False
-John Murphy,John_Murphy@hall.com,2004-09-08,445743,True,True,True,False
+John Murphy,John_Murphy@hall.com,2004-09-08,445743,True,True,False,False
 Patricia Turner,Patricia_Turner@long-garcia.org,1986-01-06,53161,True,False,True,False
 Reginald Martinez,Reginald_Martinez@dean.info,2000-12-14,41921,True,False,True,False
 Stephanie Brewer,Stephanie_Brewer@roman.com,2001-08-17,18206,True,True,True,False
@@ -3714,7 +3729,7 @@ Kimberly Cooper,Kimberly_Cooper@wood-marshall.com,1994-01-29,904533,True,True,Tr
 Vickie Stuart,Vickie_Stuart@stephens.biz,1972-07-16,368649,True,False,True,False
 Louis Williams,Louis_Williams@young.com,2006-11-05,54396,True,True,False,False
 Anthony Tapia,Anthony_Tapia@brown.info,1971-02-18,79096,True,False,True,False
-Devin Pugh,Devin_Pugh@west-shaffer.com,2005-04-13,9144416,True,True,True,False
+Devin Pugh,Devin_Pugh@west-shaffer.com,2005-04-13,9144416,True,True,False,False
 Sara Brown,Sara_Brown@mcgee.com,1980-04-21,41956,True,True,True,False
 Tanya Gonzales,Tanya_Gonzales@page.com,2009-02-18,62351,True,True,False,False
 Mrs. Nicole Thomas DDS,Nicole_Thomas@miller.com,2016-11-04,4798396,True,True,False,False
@@ -3783,7 +3798,7 @@ David Cooper,David_Cooper@martin.net,1979-08-26,464661,True,True,True,False
 Philip Hudson,Philip_Hudson@taylor.com,1982-07-13,322299,True,True,True,False
 Ryan Miller,Ryan_Miller@brown.net,1981-03-11,9908018,True,True,True,False
 Michelle Benson,Michelle_Benson@kennedy.com,1990-05-23,546069,True,True,True,False
-Anthony Spencer,Anthony_Spencer@allen-coleman.org,2004-07-26,68760767,True,False,True,True
+Anthony Spencer,Anthony_Spencer@allen-coleman.org,2004-07-26,68760767,True,False,False,True
 Brandon Harrison,Brandon_Harrison@hill.com,1996-10-19,3354947,True,True,True,False
 Kayla Mendoza,Kayla_Mendoza@graham-salazar.net,1999-09-26,53541,True,True,True,False
 Robert Austin,Robert_Austin@gomez.com,2008-07-01,36266,True,True,False,False
@@ -3838,16 +3853,16 @@ Alec Davis,Alec_Davis@dalton.net,2016-09-06,8348698,True,True,False,False
 David Mitchell,David_Mitchell@collier.com,1969-05-15,6315058,True,True,True,False
 Janet Ramsey,Janet_Ramsey@watkins-johnson.com,1964-01-04,319575,True,True,True,False
 Joe Clark,Joe_Clark@shaw-flores.com,1957-07-21,91016,True,True,True,False
-Jared Stephens,Jared_Stephens@richards.net,2005-04-10,46096,True,True,True,False
+Jared Stephens,Jared_Stephens@richards.net,2005-04-10,46096,True,True,False,False
 Ernest Fisher,Ernest_Fisher@huber-jones.info,1984-11-25,69906,True,False,True,False
 Heather Anderson,Heather_Anderson@phillips.com,1981-10-17,14946,True,True,True,False
 Robert White,Robert_White@yang.com,1966-09-06,80151,True,True,True,False
 Brenda Gonzales,Brenda_Gonzales@silva.info,1973-01-01,4777781,True,False,True,False
 Julia Price,Julia_Price@mcclure-welch.biz,1990-10-04,77046,True,False,True,False
-Bethany Keller,Bethany_Keller@butler.com,2004-09-10,8119637,True,True,True,False
+Bethany Keller,Bethany_Keller@butler.com,2004-09-10,8119637,True,True,False,False
 Andrew Hughes,Andrew_Hughes@brown.org,1994-06-27,636603,True,False,True,False
 Kevin Cook,Kevin_Cook@cox-stewart.com,1978-09-13,7123 9915,True,True,True,False
-Jessica Lloyd,Jessica_Lloyd@johnston-holland.com,2005-03-10,53471,True,True,True,False
+Jessica Lloyd,Jessica_Lloyd@johnston-holland.com,2005-03-10,53471,True,True,False,False
 Tiffany Mathews,Tiffany_Mathews@beard.com,1993-11-13,304497,True,True,True,False
 Brenda Orr,Brenda_Orr@dominguez.com,2015-05-20,58431,True,True,False,False
 Raymond Bryant,Raymond_Bryant@garrett.com,1987-08-02,720489,True,True,True,False
@@ -3855,10 +3870,10 @@ Cynthia Hill,Cynthia_Hill@stark.org,1995-12-09,77741,True,False,True,False
 Brenda Martin,Brenda_Martin@howard.biz,1959-03-02,3995146,True,False,True,False
 Morgan Martin,Morgan_Martin@hicks.info,1951-02-27,363111,True,False,True,False
 Kelly Jones,Kelly_Jones@russell.com,1965-09-15,70456,True,True,True,False
-Garrett Cortez,Garrett_Cortez@powell-meyer.biz,2005-02-04,46771,True,False,True,False
+Garrett Cortez,Garrett_Cortez@powell-meyer.biz,2005-02-04,46771,True,False,False,False
 Sean Munoz,Sean_Munoz@bell.com,1952-12-01,4136329,True,True,True,False
 Jennifer Kennedy,Jennifer_Kennedy@thompson-pollard.com,1963-01-02,6928181,True,True,True,False
-Ryan Rogers,Ryan_Rogers@walker-green.com,2004-04-22,1594209,True,True,True,False
+Ryan Rogers,Ryan_Rogers@walker-green.com,2004-04-22,1594209,True,True,False,False
 Mary Moore,Mary_Moore@knight.info,1967-07-20,5107 3987,True,False,True,False
 Kimberly Gomez,Kimberly_Gomez@robinson-becker.com,2014-03-04,35756,True,True,False,False
 Gregory Russell,Gregory_Russell@johnson.com,1968-10-30,9921787,True,True,True,False
@@ -3880,7 +3895,7 @@ Jacqueline Campbell,Jacqueline_Campbell@anderson.biz,1998-10-18,89806,True,False
 Sonya Oconnor,Sonya_Oconnor@swanson.biz,1954-02-04,275283,True,False,True,False
 Timothy Simmons,Timothy_Simmons@ramirez.com,1982-12-16,8586068,True,True,True,False
 Nicholas Davenport,Nicholas_Davenport@collier.org,2012-02-17,7029562,True,False,False,False
-Ashley Norris,Ashley_Norris@ramos.com,2004-05-30,300135,True,True,True,False
+Ashley Norris,Ashley_Norris@ramos.com,2004-05-30,300135,True,True,False,False
 Stephanie Ferguson,Stephanie_Ferguson@gonzalez-rogers.net,2001-04-10,363303,True,True,True,False
 Stephen Gibson,Stephen_Gibson@cantrell.com,2000-01-17,199677,True,True,True,False
 Pamela Flores,Pamela_Flores@smith.org,1953-07-16,98051,True,False,True,False
@@ -3894,7 +3909,7 @@ Melinda Wang,Melinda_Wang@west.biz,1977-09-06,53607903,True,False,True,True
 Lori Wilson,Lori_Wilson@kelly.com,2016-02-16,207231,True,True,False,False
 Jacob Marks,Jacob_Marks@willis.org,1972-09-24,40766,True,False,True,False
 Michael Smith,Michael_Smith@stephens.info,1977-01-03,623181,True,False,True,False
-Thomas Mata,Thomas_Mata@brewer.com,2005-06-30,28761,True,True,True,False
+Thomas Mata,Thomas_Mata@brewer.com,2005-06-30,28761,True,True,False,False
 Laura Ramos,Laura_Ramos@johnson.net,1964-06-09,858435,True,True,True,False
 Sean White,Sean_White@peterson.com,1995-04-18,388377,True,True,True,False
 Nathaniel Martin,Nathaniel_Martin@harrison-williamson.com,1990-11-02,204279,True,True,True,False
@@ -3936,6 +3951,7 @@ Tammy Thompson,Tammy_Thompson@jimenez.org,2002-05-29,13111159,True,False,True,Tr
 Jade Anderson,Jade_Anderson@johnston.com,1994-08-09,7830215,True,True,True,False
 Deborah Johnson,Deborah_Johnson@allen-wise.info,1957-04-29,9390914,True,False,True,False
 Austin Church,Austin_Church@mooney.biz,1993-05-06,818415,True,False,True,False
+Alyssa Ferguson,Alyssa_Ferguson@holmes.com,2004-04-10,64014879,True,True,False,True
 Nicholas Palmer,Nicholas_Palmer@anderson-mccann.biz,1990-10-08,7871844,True,False,True,False
 David Anderson,David_Anderson@hill.info,2013-03-01,68911,True,False,False,False
 Connie English,Connie_English@finley.info,2006-08-07,47821,True,False,False,False
@@ -3969,7 +3985,7 @@ Joshua Hogan,Joshua_Hogan@baker.com,2013-12-10,642915,True,True,False,False
 Ricardo Leon,Ricardo_Leon@white-hernandez.net,2013-04-23,3905406,True,True,False,False
 Wendy Perry MD,Wendy_Perry@burke-johnson.biz,1965-04-22,1559503,True,False,True,False
 Amy Decker,Amy_Decker@bates-davis.com,1968-05-17,86231,True,True,True,False
-Karen Crane,Karen_Crane@garcia-brown.net,2004-12-13,959649,True,True,True,False
+Karen Crane,Karen_Crane@garcia-brown.net,2004-12-13,959649,True,True,False,False
 George Garcia,George_Garcia@fuller.biz,1997-04-08,585873,True,False,True,False
 Sherry Flores,Sherry_Flores@velasquez.biz,1962-07-19,1909944,True,False,True,False
 Timothy Boyle,Timothy_Boyle@roach.net,1984-06-08,4903 3195,True,True,True,False
@@ -3986,7 +4002,7 @@ James Golden,James_Golden@henderson.com,1966-03-06,692271,True,True,True,False
 Jeremy Butler,Jeremy_Butler@allen.biz,2001-01-16,92810031,True,False,True,True
 Matthew Andersen,Matthew_Andersen@clark.biz,1987-10-17,654225,True,False,True,False
 Jonathan Parker,Jonathan_Parker@guerrero-garcia.net,2013-09-04,6040210,True,True,False,False
-Richard Warren,Richard_Warren@ibarra-woods.com,2005-07-06,88766,True,True,True,False
+Richard Warren,Richard_Warren@ibarra-woods.com,2005-07-06,88766,True,True,False,False
 Sandra Vargas,Sandra_Vargas@montgomery.com,2014-06-02,248151,True,True,False,False
 Kendra Martinez,Kendra_Martinez@lewis-rodriguez.com,1973-08-04,6730508,True,True,True,False
 Adam Foster,Adam_Foster@jackson-adams.biz,2018-04-16,7559154,True,False,False,False
@@ -3997,7 +4013,7 @@ Martin Jones,Martin_Jones@schaefer.net,1969-04-23,5236638,True,True,True,False
 Robert Morris,Robert_Morris@rice.net,2013-10-26,554439,True,True,False,False
 Nicole Lewis,Nicole_Lewis@dean-cook.com,2009-01-18,337263,True,True,False,False
 Christine Wright,Christine_Wright@green-juarez.com,1964-09-08,4398024,True,True,True,False
-David Robinson,David_Robinson@thompson-franco.org,2004-05-25,58876,True,False,True,False
+David Robinson,David_Robinson@thompson-franco.org,2004-05-25,58876,True,False,False,False
 Christopher Case,Christopher_Case@joseph-steele.com,1963-04-17,62311,True,True,True,False
 Mark Ward,Mark_Ward@wells-nolan.net,1978-09-01,567795,True,True,True,False
 Dana Phillips,Dana_Phillips@villarreal-gray.com,1964-11-08,459291,True,True,True,False
@@ -4080,7 +4096,7 @@ Sandra Lewis,Sandra_Lewis@keller-henry.info,1995-12-24,80811,True,False,True,Fal
 Kim Brady,Kim_Brady@nguyen.info,1979-05-18,17866,True,False,True,False
 Sandra Houston,Sandra_Houston@cruz.org,2000-02-11,88159159,True,False,True,True
 Kimberly Fox,Kimberly_Fox@zuniga.com,1955-05-06,8062881,True,True,True,False
-James Daniel,James_Daniel@adams-anderson.com,2004-11-21,570429,True,True,True,False
+James Daniel,James_Daniel@adams-anderson.com,2004-11-21,570429,True,True,False,False
 Sandra Ortiz,Sandra_Ortiz@hudson.org,1984-12-13,2342768,True,False,True,False
 Jason Perez,Jason_Perez@garrison-best.com,2008-07-22,5285323,True,True,False,False
 Nicole Perry,Nicole_Perry@ford.info,1953-08-22,81236407,True,False,True,True
@@ -4105,7 +4121,7 @@ Michael Garcia,Michael_Garcia@marks.com,1961-01-10,81431,True,True,True,False
 Tyler Aguilar,Tyler_Aguilar@carpenter.com,1993-01-27,42216,True,True,True,False
 Jennifer Cox,Jennifer_Cox@flores-briggs.net,1959-02-19,9259293,True,True,True,False
 Patrick Craig,Patrick_Craig@jennings.com,2008-02-19,9017485,True,True,False,False
-William Davis,William_Davis@whitney.biz,2004-07-27,67567223,True,False,True,True
+William Davis,William_Davis@whitney.biz,2004-07-27,67567223,True,False,False,True
 Jessica Silva,Jessica_Silva@parker-ward.com,1954-11-04,3631727,True,True,True,False
 Destiny Johns,Destiny_Johns@hayes.com,1973-12-01,8923 3575,True,True,True,False
 Kimberly Davis MD,Kimberly_Davis@lopez.biz,1967-03-22,67776,True,False,True,False
@@ -4134,6 +4150,7 @@ Anna Mendoza,Anna_Mendoza@sanchez.biz,1971-12-15,21351,True,False,True,False
 Danielle Cain,Danielle_Cain@browning.com,2008-01-30,7839238,True,True,False,False
 Carla Jones,Carla_Jones@long-hernandez.biz,2017-06-08,292611,True,False,False,False
 Jennifer Davis,Jennifer_Davis@nguyen.com,1993-10-18,7251 3603,True,True,True,False
+Matthew Diaz,Matthew_Diaz@ortiz.com,2004-04-29,19038407,True,True,False,True
 Julie Leon,Julie_Leon@montgomery.biz,1993-03-13,60535175,True,False,True,True
 Evan Page,Evan_Page@harrison.org,1994-08-08,37848247,True,False,True,True
 Matthew Valdez,Matthew_Valdez@ruiz.com,1995-09-19,61781,True,True,True,False
@@ -4177,7 +4194,7 @@ Johnathan Weeks,Johnathan_Weeks@white-reynolds.com,1960-11-23,9087359,True,True,
 Jeffrey Thompson,Jeffrey_Thompson@jacobs.com,1994-02-13,621921,True,True,True,False
 William Ward,William_Ward@butler.org,1955-02-14,3145129,True,False,True,False
 Kristin Bauer,Kristin_Bauer@gray.biz,1989-06-17,5371 6731,True,False,True,False
-Maria Johnson,Maria_Johnson@brady.info,2004-01-18,78511,True,False,True,False
+Maria Johnson,Maria_Johnson@brady.info,2004-01-18,78511,True,False,False,False
 Carlos Adams,Carlos_Adams@bennett.biz,1975-05-21,230403,True,False,True,False
 Colleen Garner,Colleen_Garner@lee.com,1991-09-18,503157,True,True,True,False
 Nicole Miller,Nicole_Miller@murphy.com,2013-12-21,49761,True,True,False,False
@@ -4219,7 +4236,7 @@ Sarah French,Sarah_French@wright.biz,1981-07-16,1491 1411,True,False,True,False
 Stephanie White,Stephanie_White@stephens-brewer.com,1997-07-29,2753976,True,True,True,False
 Joseph Bartlett,Joseph_Bartlett@thompson-espinoza.biz,1982-02-15,99932903,True,False,True,True
 Joshua Miller,Joshua_Miller@wilcox-watts.com,1975-05-29,97026,True,True,True,False
-Cory Cummings,Cory_Cummings@bauer.net,2004-11-04,60366,True,True,True,False
+Cory Cummings,Cory_Cummings@bauer.net,2004-11-04,60366,True,True,False,False
 Jennifer Nguyen,Jennifer_Nguyen@henderson.com,1998-08-17,3734809,True,True,True,False
 Eric Williams,Eric_Williams@steele-snyder.com,1986-09-18,334395,True,True,True,False
 Maurice Stewart,Maurice_Stewart@montgomery-hood.net,1998-04-20,27021,True,True,True,False
@@ -4247,10 +4264,11 @@ Joseph Davis,Joseph_Davis@jordan.net,2017-11-07,8681464,True,True,False,False
 Kevin Pope,Kevin_Pope@mejia.info,1961-07-06,62651,True,False,True,False
 William Vargas,William_Vargas@mosley-rosales.com,1961-05-22,1462259,True,True,True,False
 Daniel Garcia,Daniel_Garcia@hughes-arnold.com,1973-01-31,594207,True,True,True,False
+Timothy Evans,Timothy_Evans@douglas-gray.net,2004-07-03,21273015,True,True,False,True
 Brian Vega,Brian_Vega@peterson.biz,1979-01-23,4993010,True,False,True,False
 Jacob Mcdonald,Jacob_Mcdonald@howell-russell.com,1995-11-11,88426,True,True,True,False
 Kathleen Harris,Kathleen_Harris@meyers.com,1989-12-16,948549,True,True,True,False
-Robert Mcconnell,Robert_Mcconnell@reese.com,2004-06-08,3774604,True,True,True,False
+Robert Mcconnell,Robert_Mcconnell@reese.com,2004-06-08,3774604,True,True,False,False
 Julie Hall,Julie_Hall@johnson.com,1955-07-24,77331,True,True,True,False
 James Lopez,James_Lopez@werner.org,1979-06-18,88866567,True,False,True,True
 Tracy Williams,Tracy_Williams@donovan.com,1988-05-05,5008410,True,True,True,False
@@ -4258,12 +4276,12 @@ Gina Zimmerman,Gina_Zimmerman@curtis-douglas.info,1982-08-13,8829171,True,False,
 Emily Oneal,Emily_Oneal@gutierrez.com,1958-01-18,4915 2079,True,True,True,False
 Sarah Hernandez,Sarah_Hernandez@pennington-johnson.com,2009-10-26,2730624,True,True,False,False
 David Jones,David_Jones@floyd.com,1997-02-03,542211,True,True,True,False
-Paula Hill,Paula_Hill@porter.com,2004-12-24,908349,True,True,True,False
+Paula Hill,Paula_Hill@porter.com,2004-12-24,908349,True,True,False,False
 David Morrow,David_Morrow@johnson.com,2006-01-26,32346,True,True,False,False
 Lisa White,Lisa_White@evans.net,1978-03-09,1564158,True,True,True,False
 James Patrick,James_Patrick@caldwell.com,1986-11-28,89681,True,True,True,False
 Kirk Donaldson,Kirk_Donaldson@roberts-mills.info,1979-12-30,36131119,True,False,True,True
-Joshua Farrell,Joshua_Farrell@rogers.net,2005-10-27,770337,True,True,True,False
+Joshua Farrell,Joshua_Farrell@rogers.net,2005-10-27,770337,True,True,False,False
 Kathryn Parker,Kathryn_Parker@abbott.com,2012-12-24,88781,True,True,False,False
 Tracy Elliott,Tracy_Elliott@rhodes-thomas.com,1964-05-10,7749624,True,True,True,False
 Joshua Green,Joshua_Green@hernandez.com,2010-03-09,791325,True,True,False,False
@@ -4364,7 +4382,7 @@ Victoria Jones,Victoria_Jones@higgins.com,2002-04-12,88811,True,True,True,False
 Gabriel Rose,Gabriel_Rose@mccormick.com,1990-05-30,191229,True,True,True,False
 Melanie Perry,Melanie_Perry@miller.com,1977-06-11,297159,True,True,True,False
 Alison Valdez,Alison_Valdez@ward-smith.net,2015-05-15,17886,True,True,False,False
-Benjamin Coleman,Benjamin_Coleman@lopez-preston.com,2005-06-06,72616,True,True,True,False
+Benjamin Coleman,Benjamin_Coleman@lopez-preston.com,2005-06-06,72616,True,True,False,False
 Alex Baker,Alex_Baker@kelly.com,2012-04-23,34292983,True,True,False,True
 Peter Alexander,Peter_Alexander@martinez.com,1999-11-05,29401,True,True,True,False
 Katie Chang,Katie_Chang@riley.com,1959-07-09,40506,True,True,True,False
@@ -4392,11 +4410,11 @@ Elizabeth Duncan,Elizabeth_Duncan@taylor.com,2012-04-26,2436015,True,True,False,
 Bryan Price,Bryan_Price@mendez.com,1989-11-16,61996,True,True,True,False
 Robert Johnson,Robert_Johnson@burnett.org,1952-05-18,42600607,True,False,True,True
 Stephanie Molina,Stephanie_Molina@jacobson.com,1990-11-15,866271,True,True,True,False
-Justin Griffin,Justin_Griffin@james.com,2005-04-11,51696,True,True,True,False
+Justin Griffin,Justin_Griffin@james.com,2005-04-11,51696,True,True,False,False
 Jennifer Novak,Jennifer_Novak@mack.com,2013-06-06,6747938,True,True,False,False
 James Smith,James_Smith@perkins-thompson.com,1977-04-23,42811,True,True,True,False
 Lisa Meyers,Lisa_Meyers@wallace-jimenez.com,1987-12-21,75536,True,True,True,False
-Gary Thompson,Gary_Thompson@kennedy.com,2004-05-08,1992257,True,True,True,False
+Gary Thompson,Gary_Thompson@kennedy.com,2004-05-08,1992257,True,True,False,False
 Rachel Maxwell,Rachel_Maxwell@edwards-nguyen.biz,1974-05-13,9171 4011,True,False,True,False
 Michael Warren,Michael_Warren@wu.org,2003-08-05,6497688,True,False,True,False
 Amanda Alexander,Amanda_Alexander@baker-harris.com,1967-01-11,48521,True,True,True,False
@@ -4411,7 +4429,7 @@ Joshua Jimenez,Joshua_Jimenez@hardin-lucas.info,1976-12-05,6044228,True,False,Tr
 Teresa Harris,Teresa_Harris@poole.com,1998-10-16,91081,True,True,True,False
 Courtney Morse,Courtney_Morse@klein.org,1977-07-07,2395 1715,True,False,True,False
 Kayla Mcintyre,Kayla_Mcintyre@burns.com,1987-04-27,6493383,True,True,True,False
-Marvin Williams,Marvin_Williams@bartlett.com,2004-12-02,6391736,True,True,True,False
+Marvin Williams,Marvin_Williams@bartlett.com,2004-12-02,6391736,True,True,False,False
 Robert Chang,Robert_Chang@sharp.net,1986-05-31,589467,True,True,True,False
 Briana Johnson,Briana_Johnson@bond-rose.biz,2015-08-22,25491,True,False,False,False
 Joe Bishop,Joe_Bishop@davis.com,1975-08-07,33681,True,True,True,False
@@ -4419,14 +4437,14 @@ Terri Herring,Terri_Herring@carson.com,1989-05-16,4068240,True,True,True,False
 Jean Young,Jean_Young@peters-miller.net,1994-10-12,7295219,True,True,True,False
 Carla Jackson,Carla_Jackson@morris.com,1994-07-15,4427 5151,True,True,True,False
 Tara Chavez,Tara_Chavez@smith.com,2007-10-09,57976,True,True,False,False
-Jeffrey Ware,Jeffrey_Ware@park-gregory.net,2004-06-25,5505312,True,True,True,False
+Jeffrey Ware,Jeffrey_Ware@park-gregory.net,2004-06-25,5505312,True,True,False,False
 Barry Randolph,Barry_Randolph@glover.com,1963-02-27,11326,True,True,True,False
 Eric Hoffman,Eric_Hoffman@lang.info,1975-04-25,99871415,True,False,True,True
 Jacqueline Walters,Jacqueline_Walters@hernandez.org,2007-07-15,2920436,True,False,False,False
-William Miller,William_Miller@foster.info,2005-03-01,3984366,True,False,True,False
+William Miller,William_Miller@foster.info,2005-03-01,3984366,True,False,False,False
 Daniel Perez,Daniel_Perez@jordan-martinez.biz,1993-04-19,1181951,True,False,True,False
 Kimberly Larson,Kimberly_Larson@nash.org,1978-06-18,898689,True,False,True,False
-Brian Finley,Brian_Finley@copeland.com,2004-01-13,8018522,True,True,True,False
+Brian Finley,Brian_Finley@copeland.com,2004-01-13,8018522,True,True,False,False
 Kelly Hayden DVM,Kelly_Hayden@brown-barrett.biz,1988-03-20,17706,True,False,True,False
 Jessica Dixon,Jessica_Dixon@clark.org,1966-08-16,76336767,True,False,True,True
 Kathleen Rodriguez,Kathleen_Rodriguez@frost-james.com,1967-10-05,6539 7891,True,True,True,False

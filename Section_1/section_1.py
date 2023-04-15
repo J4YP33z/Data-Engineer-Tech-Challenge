@@ -52,14 +52,14 @@ df["email_check"] = df["email"].str.match(r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.(
 
 # Convert the date of birth column to datetime format and create a new column indicating whether the age is at least 18
 df["date_of_birth"] = df["date_of_birth"].apply(pd.to_datetime, errors="coerce", infer_datetime_format=True)
-df["age_check"] = df["date_of_birth"].apply(lambda x: (pd.Timestamp(2022, 1, 1) - x) // datetime.timedelta(days=365.2425) >= 18)
+df["above_18"] = df["date_of_birth"].apply(lambda x: (pd.Timestamp(2022, 1, 1) - x) // datetime.timedelta(days=365) >= 18)
 
 # Convert the mobile number column to string format and create a new column indicating whether the length is 8
 df["mobile_no"] = df["mobile_no"].apply(str)
 df["mobile_check"] = df["mobile_no"].apply(lambda x: len(x) == 8)
 
 # Split the DataFrame into a successful and failed DataFrame based on the four checks above
-success = df["name_check"] & df["email_check"] & df["age_check"] & df["mobile_check"]
+success = df["name_check"] & df["email_check"] & df["above_18"] & df["mobile_check"]
 failed = df.loc[~success]
 
 # Write the failed DataFrame to a CSV file in the failed directory
@@ -82,7 +82,7 @@ df["date_of_birth"] = df["date_of_birth"].dt.strftime("%Y%m%d").apply(str)
 df["membership_id"] = df.apply(lambda r: f"{r['last_name']}_{hashlib.sha256(r['date_of_birth'].encode()).hexdigest()[:5]}", axis=1)
 
 # Save processed applications to CSV file
-df = df.loc[:, ["first_name", "last_name", "email", "date_of_birth", "membership_id"]]
+df = df.loc[:, ["first_name", "last_name", "email", "date_of_birth", "membership_id", "above_18"]]
 logging.info(f"Writing {len(df)} records to {output_path}")
 df.to_csv(f"{output_path}applications_{datetime.datetime.now().strftime('%Y%m%d-%H%M')}.csv", index=False)
 
