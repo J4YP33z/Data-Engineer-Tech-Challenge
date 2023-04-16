@@ -1,4 +1,4 @@
-## Project Description
+## Section 2: Databases
 
 This project contains several files that serve different purposes related to a database implementation.
 
