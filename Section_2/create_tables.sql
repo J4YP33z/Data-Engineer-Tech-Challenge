@@ -28,3 +28,7 @@ CREATE TABLE transaction_details (
     item_id INTEGER REFERENCES items(item_id) NOT NULL,
     quantity INTEGER NOT NULL
 );
+
+-- add index on foreign keys to improve performance of joins and lookups
+CREATE INDEX member_id_idx ON transactions(member_id);
+CREATE INDEX transaction_id_idx ON transaction_details(transaction_id);
